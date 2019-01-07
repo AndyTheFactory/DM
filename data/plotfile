@@ -1,0 +1,2 @@
+set datafile separator tab
+plot "d:/Work/Java/DM/data/winemag_150k_processed.txt" using 4:5:11 with points palette pt 3
