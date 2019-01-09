@@ -19,15 +19,79 @@ import org.battelle.clodhopper.fuzzycmeans.*;
 import org.battelle.clodhopper.seeding.*;
 import org.battelle.clodhopper.task.TaskOutcome;
 import org.battelle.clodhopper.tuple.ArrayTupleList;
-import org.battelle.clodhopper.tuple.FileMappedTupleList;
 import org.battelle.clodhopper.tuple.TupleList;
 public class FuzzyCMeans {
 
     /**
      * @param args the command line arguments
      */
+    static FuzzyCMeansClusterer getClusterer(TupleList tuples){
+        FuzzyCMeansParams params;
+        FuzzyCMeansParams.Builder builder = new FuzzyCMeansParams.Builder()
+    			.clusterCount(10)
+    			.maxIterations(100)
+    			.fuzziness(2)
+    			.epsilon(0.001)
+    			.workerThreadCount(1)
+    			.clusterSeeder(new RandomSeeder(System.currentTimeMillis(), new Random()))
+    			.distanceMetric(new EuclideanDistanceMetric());
+
+        params = builder.build();
+        return new FuzzyCMeansClusterer(tuples, params);          
+        
+    }
     public static void main(String[] args) throws IOException, InterruptedException, ExecutionException {
-        // TODO code application logic here
+
+        System.out.print("Reading Weight Data...");
+        WeightData wd=new WeightData("c:\\Projects\\DM\\data\\weightlifting_350k.txt");
+        
+        wd.ReadTupleList();
+        
+        System.out.println("Clustering...");
+        FuzzyCMeansClusterer fuzzyC = getClusterer(wd.inputTuples);          
+
+        Thread worker = new Thread(fuzzyC);
+        worker.start();
+
+        List<Cluster>  clusters = fuzzyC.get();
+
+        System.out.println("Clustering done!");
+        if (fuzzyC.getTaskOutcome() == TaskOutcome.SUCCESS) {
+              System.out.println("Saving Cluster files");
+
+              wd.WriteClusterInfo(clusters);
+              wd.WriteClusteredData(clusters);
+              
+          }else{
+              System.err.println(fuzzyC.getErrorMessage());
+          }
+        
+        System.out.print("Reading Weight Data...");
+        WeatherData weatherd=new WeatherData("c:\\Projects\\DM\\data\\weather_data_sandiego.txt");
+        
+        weatherd.ReadTupleList();
+        
+        System.out.println("Clustering...");
+        fuzzyC = getClusterer(weatherd.inputTuples);          
+
+        Thread worker2 = new Thread(fuzzyC);
+        worker2.start();
+
+        clusters = fuzzyC.get();
+
+        System.out.println("Clustering done!");
+        if (fuzzyC.getTaskOutcome() == TaskOutcome.SUCCESS) {
+              System.out.print("Saving Cluster files");
+              weatherd.WriteClusterInfo(clusters);
+              weatherd.WriteClusteredData(clusters);
+              
+          }else{
+              System.err.println(fuzzyC.getErrorMessage());
+          }
+          
+    }
+    private void test(){
+                // TODO code application logic here
         FuzzyCMeansParams params=null;
         
         ClusterSeeder seeder = new RandomSeeder(System.currentTimeMillis(), new Random());
@@ -71,24 +135,6 @@ public class FuzzyCMeans {
           }else{
               System.err.println(fuzzyC.getErrorMessage());
           }
-          
-          WineData wd=new WineData("d:\\Work\\Java\\DM\\data\\winemag_150k.txt");
-          wd.ReadTupleList();
-          fuzzyC = new FuzzyCMeansClusterer(wd.inputTuples, params);          
 
-          Thread worker = new Thread(fuzzyC);
-          worker.start();
-
-          clusters = fuzzyC.get();
-
-          if (fuzzyC.getTaskOutcome() == TaskOutcome.SUCCESS) {
-              wd.WriteClusterInfo(clusters);
-              wd.WriteClusteredData(clusters);
-              
-          }else{
-              System.err.println(fuzzyC.getErrorMessage());
-          }
-          
     }
-    
 }
