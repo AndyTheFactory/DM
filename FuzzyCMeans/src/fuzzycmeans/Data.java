@@ -26,7 +26,7 @@ import org.battelle.clodhopper.util.IntIterator;
  *
  * @author Dell
  */
-public class Data {
+public abstract class Data {
 
     String FIELD_DELIM="\t";
     String ID_FIELD="id";
@@ -36,6 +36,7 @@ public class Data {
     HashMap<Double, Double> tupleMap;
     protected  ArrayList<String> header;
     protected ArrayList<String> cluster_fields;
+    double[] normalization;
     public Data(String filename) throws FileNotFoundException, IOException{
         inputFile = new File(filename);
         tupleMap=new HashMap<>();
@@ -59,14 +60,18 @@ public class Data {
             String[] fields=line.split(FIELD_DELIM);
 
             String id=fields[header.indexOf(ID_FIELD)];
+            int i=0;
             for(String fld:cluster_fields){
                 double val;
                 try{
                     val=Double.valueOf(fields[header.indexOf(fld)]);
+                    val=val/normalization[i];
+                    //if (fld.equals("BestBenchKg")) val/=5;
                 }catch(NumberFormatException e){
                     val=0;
                 } 
                 values.add(val);
+                i++;
             }
             tupleMap.put(Double.valueOf(id),(double)nr);
             nr++;
@@ -93,7 +98,7 @@ public class Data {
             cfile.newLine();
             double[] center=c.getCenter();
             for(int j=0;j<center.length;j++)
-                cfile.write(String.format("%.5f"+System.lineSeparator(),center[j]));
+                cfile.write(String.format("%.5f"+System.lineSeparator(),center[j]*normalization[j]));
             
         }
         cfile.close();
@@ -134,5 +139,9 @@ public class Data {
         
     }
     
-
+    /**
+     *
+     * @param filename
+     */
+    public abstract void writeGnuPlot(List<Cluster> clusters);
 }

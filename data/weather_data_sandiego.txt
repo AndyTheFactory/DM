@@ -1,4 +1,4 @@
-id    nada	datetime	humidity	pressure	temperature
+id	datetime	humidity	pressure	temperature
 1    	2012-10-01 13:00:00	82.0	1013.0	291.53
 2    	2012-10-01 14:00:00	81.0	1013.0	291.533500952
 3    	2012-10-01 15:00:00	81.0	1013.0	291.543355079
@@ -44898,4 +44898,3 @@ id    nada	datetime	humidity	pressure	temperature
 44897	2017-11-29 22:00:00	68.0	1016.0	292.58
 44898	2017-11-29 23:00:00	63.0	1016.0	292.61
 44899	2017-11-30 00:00:00	72.0	1017.0	291.4
-44900	

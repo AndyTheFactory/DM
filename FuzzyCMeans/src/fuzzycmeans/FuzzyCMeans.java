@@ -28,10 +28,10 @@ public class FuzzyCMeans {
     static FuzzyCMeansClusterer getClusterer(TupleList tuples){
         FuzzyCMeansParams params;
         FuzzyCMeansParams.Builder builder = new FuzzyCMeansParams.Builder()
-    			.clusterCount(10)
+    			.clusterCount(5)
     			.maxIterations(100)
-    			.fuzziness(2)
-    			.epsilon(0.001)
+    			.fuzziness(3)
+    			.epsilon(0.0001)
     			.workerThreadCount(1)
     			.clusterSeeder(new RandomSeeder(System.currentTimeMillis(), new Random()))
     			.distanceMetric(new EuclideanDistanceMetric());
@@ -61,7 +61,7 @@ public class FuzzyCMeans {
 
               wd.WriteClusterInfo(clusters);
               wd.WriteClusteredData(clusters);
-              
+              wd.writeGnuPlot(clusters);
           }else{
               System.err.println(fuzzyC.getErrorMessage());
           }
@@ -81,9 +81,10 @@ public class FuzzyCMeans {
 
         System.out.println("Clustering done!");
         if (fuzzyC.getTaskOutcome() == TaskOutcome.SUCCESS) {
-              System.out.print("Saving Cluster files");
+              System.out.println("Saving Cluster files");
               weatherd.WriteClusterInfo(clusters);
               weatherd.WriteClusteredData(clusters);
+              weatherd.writeGnuPlot(clusters);
               
           }else{
               System.err.println(fuzzyC.getErrorMessage());
