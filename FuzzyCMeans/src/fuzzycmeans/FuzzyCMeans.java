@@ -43,7 +43,7 @@ public class FuzzyCMeans {
     public static void main(String[] args) throws IOException, InterruptedException, ExecutionException {
 
         System.out.print("Reading Weight Data...");
-        WeightData wd=new WeightData("c:\\Projects\\DM\\data\\weightlifting_350k.txt");
+        WeightData wd=new WeightData("d:\\Work\\Java\\DM\\data\\weightlifting_130k.txt");
         
         wd.ReadTupleList();
         
@@ -66,13 +66,13 @@ public class FuzzyCMeans {
               System.err.println(fuzzyC.getErrorMessage());
           }
         
-        System.out.print("Reading Weight Data...");
-        WeatherData weatherd=new WeatherData("c:\\Projects\\DM\\data\\weather_data_sandiego.txt");
+        System.out.print("Reading Road Accidents Data...");
+        RoadData road=new RoadData("d:\\Work\\Java\\DM\\data\\road_accidents_180k.txt");
         
-        weatherd.ReadTupleList();
+        road.ReadTupleList();
         
         System.out.println("Clustering...");
-        fuzzyC = getClusterer(weatherd.inputTuples);          
+        fuzzyC = getClusterer(road.inputTuples);          
 
         Thread worker2 = new Thread(fuzzyC);
         worker2.start();
@@ -82,9 +82,9 @@ public class FuzzyCMeans {
         System.out.println("Clustering done!");
         if (fuzzyC.getTaskOutcome() == TaskOutcome.SUCCESS) {
               System.out.println("Saving Cluster files");
-              weatherd.WriteClusterInfo(clusters);
-              weatherd.WriteClusteredData(clusters);
-              weatherd.writeGnuPlot(clusters);
+              road.WriteClusterInfo(clusters);
+              road.WriteClusteredData(clusters);
+              road.writeGnuPlot(clusters);
               
           }else{
               System.err.println(fuzzyC.getErrorMessage());

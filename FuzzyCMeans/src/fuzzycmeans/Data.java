@@ -136,7 +136,7 @@ public abstract class Data {
             outfile.newLine();
         }
         fil.close();
-        
+        outfile.close();
     }
     
     /**

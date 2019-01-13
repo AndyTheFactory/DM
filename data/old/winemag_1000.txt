@@ -1,0 +1,1001 @@
+id	country	designation	points	price	province	region_1	region_2	variety	winery
+65226	Austria	Terra O.	91	48.00	Burgenland			Red Blend	Johann Heinrich
+87706	Italy	Pieve dei Monaci	90	18.00	Tuscany	Maremma Toscana		Syrah	Pieve Vecchia
+43231	US	Arcadia	87	50.00	California	Napa Valley	Napa	Chardonnay	Stag's Leap Wine Cellars
+145546	US		87	27.00	Washington	Columbia Valley (WA)	Columbia Valley	Cabernet Sauvignon	Goose Ridge
+98119	US	Pepper Bridge Vineyard	89	32.00	Washington	Walla Walla Valley (WA)	Columbia Valley	Cabernet Sauvignon	Kontos
+147039	US	Anderson Road	86	15.00	California	Paso Robles	Central Coast	Cabernet Sauvignon-Syrah	Dark Star
+132222	US		91	50.00	California	Russian River Valley	Sonoma	Pinot Noir	Small Vines
+124716	US		88	18.00	California	Carneros	Napa-Sonoma	Chardonnay	Egret
+42461	Italy	Rosa di Fonterenza	83	19.00	Tuscany	Toscana		Rosato	Fonterenza
+19070	US		84	34.00	California	Napa Valley	Napa	Bordeaux-style Red Blend	Tin Barn
+120370	Argentina		82	13.00	Mendoza Province	Luján de Cuyo		Cabernet Sauvignon	Tierras Altas
+147016	US		87	18.00	California	Calaveras County	Sierra Foothills	Sauvignon Blanc	Chatom
+124608	Italy	Luia	90	53.00	Tuscany	Toscana		Red Blend	Tenuta della Luia
+116246	France		84	11.00	Beaujolais	Beaujolais-Villages		Gamay	Louis Tête
+9405	US	The Sorceress Upland Vineyard	92	60.00	Washington	Snipes Mountain	Columbia Valley	Grenache	Sleight of Hand
+81302	Portugal	Alma Grande Reserva	91	17.00	Douro			Touriga Nacional	Caves Velhas
+91190	Portugal	Late Bottled Vintage	91	25.00	Port			Port	Taylor Fladgate
+29828	France	Clos des Mouches Premier Cru	94	120.00	Burgundy	Beaune		Chardonnay	Joseph Drouhin
+32099	US	Les Collines Vineyard	88	35.00	Washington	Walla Walla Valley (WA)	Columbia Valley	Malbec	J & J
+41678	US	Stewart	89	35.00	Oregon	Willamette Valley	Willamette Valley	Pinot Noir	Boedecker Cellars
+90356	US	Alder Ridge Vineyard  Rosé	88	20.00	Washington	Horse Heaven Hills	Columbia Valley	Grenache	L'Ecole No. 41
+89388	US		82	30.00	California	Russian River Valley	Sonoma	Zinfandel	Wine Guerrilla
+117207	US	First Class	88	60.00	Oregon	Willamette Valley	Willamette Valley	Pinot Noir	Benton-Lane
+93659	US		92	28.00	California	Napa Valley	Napa	Merlot	Whitehall Lane
+86054	US	Identity Crisis	90	15.00	California	Santa Barbara County	Central Coast	Syrah	Babcock
+88039	France	Clos de la Maréchale Premier Cru	93	90.00	Burgundy	Nuits-St.-Georges		Pinot Noir	Domaine Jacques-Frédéric Mugnier
+2308	US	Azimuth	91	54.00	California	Paso Robles	Central Coast	Red Blend	Caliza
+138995	US	La Petite Etoile Vineyard	87	20.00	California	Russian River Valley	Sonoma	Fumé Blanc	Chateau St. Jean
+129997	US	Yamhill Springs Vineyard	87	37.00	Oregon	Willamette Valley	Willamette Valley	Pinot Noir	Raptor Ridge
+148965	US	Vineyard Selection	87	16.00	Washington	Columbia Valley (WA)	Columbia Valley	Merlot	Hogue
+60734	Italy	Buio	87	28.00	Sicily & Sardinia	Carignano del Sulcis		Carignano	Mesa
+150790	US	Meritage	90	28.00	California	Sonoma County	Sonoma	Bordeaux-style Red Blend	Dry Creek Vineyard
+50595	US		88	10.00	Washington	Columbia Valley (WA)	Columbia Valley	Syrah	Castle Rock
+141831	France		84	9.00	Provence	Côtes de Provence		Rosé	Baron Gassier
+139764	Italy	Burdese	92	39.00	Sicily & Sardinia	Sicilia		Red Blend	Planeta
+39764	Italy		86	15.00	Tuscany	Toscana		Sémillon	Fornacelle
+116473	US		82	8.00	Washington	Columbia Valley (WA)	Columbia Valley	Cabernet Sauvignon	Washington Hills
+73382	Chile	Orzada	90	20.00	Cauquenes Valley			Carignan	Odfjell
+130547	Italy	Messorio	94	250.00	Tuscany	Bolgheri		Merlot	Le Macchiole
+105156	US	Piner Creek Ranch Dry	90	30.00	California	Russian River Valley	Sonoma	Gewürztraminer	Halleck
+33985	Argentina		83	14.00	Mendoza Province	Mendoza		Merlot	Noble Aconcagua
+112425	US		83	16.00	New York	Finger Lakes	Finger Lakes	Cabernet Sauvignon	Fulkerson
+10799	Austria	Heiligenstein Erste Lage	94	38.00	Kamptal			Riesling	Bründlmayer
+78659	Italy	Terre di Ginestra BlanQ	87	18.00	Sicily & Sardinia	Sicilia		White Blend	Calatrasi
+87096	Austria	Rabenstein Reserve	91	27.00	Weinviertel			Grüner Veltliner	Dürnberg
+110345	France	Brut	90	18.00	Burgundy	Crémant de Bourgogne		Sparkling Blend	Léonce Bocquet
+88237	Italy	Sassomagno	88	15.00	Tuscany	Sant'Antimo		Sangiovese	Fanti
+41662	US	Bien Nacido Vineyard	87	50.00	California	Santa Maria Valley	Central Coast	Pinot Noir	Twomey
+40888	US	Flying & Falling	92	32.00	New York	North Fork of Long Island	Long Island	Cabernet Franc	Southold
+76540	US		87	18.00	Washington	Columbia Valley (WA)	Columbia Valley	Riesling	Southard
+97727	Germany	Grünlack Spätlese Trocken	88	50.00	Rheingau			Riesling	Schloss Johannisberger
+57456	Italy	Albatro	86	39.00	Tuscany	Toscana		Red Blend	Máté
+143103	US		83	18.00	California	Sonoma County	Sonoma	Cabernet Sauvignon	Kenwood
+104573	Argentina		85	15.00	Other	Neuquén		Pinot Noir	Valle Perdido
+142417	France		87	11.00	Rhône Valley	Costières de Nîmes		Rosé	Domaine de la Petite Cassagne
+33209	US		86	52.00	California	Napa Valley	Napa	Cabernet Sauvignon	Stags' Leap Winery
+111194	France		88	17.00	Bordeaux	Saint-Estèphe		Bordeaux-style Red Blend	Château Lilian Ladouys
+75968	US	Estate	89	21.00	California	Russian River Valley	Sonoma	Zinfandel	Balletto
+54722	US	Carlisle Vineyard	90	34.00	California	Russian River Valley	Sonoma	Zinfandel	Novy
+1263	France	Cuvée Réservée	85	63.00	Rhône Valley	Châteauneuf-du-Pape		Rhône-style White Blend	Domaine du Pegau
+135297	France	La Patache	85	12.00	Bordeaux	Médoc		Cabernet Sauvignon	Domaines Lapalu
+92798	Austria	Steinwand Federspiel	88	19.00	Wachau			Grüner Veltliner	Schmelz
+74714	Italy		85	26.00	Tuscany	Chianti Classico		Red Blend	Rocca di Montegrossi
+62916	US	RTW	87	13.00	Washington	Columbia Valley (WA)	Columbia Valley	Red Blend	Cayalla
+135426	US	Elerding Vineyard Double Barrel	88	35.00	Washington	Columbia Valley (WA)	Columbia Valley	Cabernet Sauvignon	Barrage Cellars
+51141	US	Ten Degrees	98	100.00	California	Anderson Valley	Mendocino/Lake Counties	Pinot Noir	Goldeneye
+37781	US	Westside Road Neighbors	89	69.00	California	Russian River Valley	Sonoma	Pinot Noir	Williams Selyem
+28892	Italy	Extra Dry Rosè	86	20.00	Veneto	Veneto		Pinot Nero	Bacio della Luna
+43286	US	Brut Rosé	92	36.00	California	Carneros	Napa-Sonoma	Sparkling Blend	Domaine Carneros
+31866	Germany	Abstberg Auslese Nr. 84	91	54.00	Mosel			Riesling	Maximin Grünhäuser
+29676	Portugal		85	8.00	Vinho Verde			Portuguese White	FVine
+38537	US	Josephine + Mariposa	91	26.00	California	Sierra Foothills	Sierra Foothills	Rhône-style Red Blend	La Clarine Farm
+59848	South Africa	Estate	88	43.00	Stellenbosch			Red Blend	Rust en Vrede
+126953	Chile	Estate Bottled	82	7.00	Colchagua Valley			Merlot	La Playa
+8068	France	Cuvée Compostelle	86	25.00	Bordeaux	Castillon Côtes de Bordeaux		Bordeaux-style Red Blend	Château Côte Montpezat
+139568	US	Bel Canto	90	60.00	Washington	Red Mountain	Columbia Valley	Bordeaux-style Red Blend	Cadence
+55465	US	Whitie's D9 A Big Bold	83	50.00	Virginia	Virginia		Red Blend	Tarara
+58690	South Africa	Beyond	90	12.00	Coastal Region			Sauvignon Blanc	Buitenverwachting
+40867	US	Estate Reserve	92	25.00	California	Paso Robles	Central Coast	Merlot	San Simeon
+28908	Italy	Lunetta	86	14.00	Veneto	Prosecco		Glera	Cavit
+11944	Italy	Carlo Hauner	90	18.00	Sicily & Sardinia	Terre Siciliane		White Blend	Hauner
+109279	France	Vieilles Vignes Old Vines Chardonnay	88	14.00	Burgundy	Mâcon-Villages		Chardonnay	Mommessin
+16142	US		88	24.00	California	Sonoma County	Sonoma	Cabernet Sauvignon	St. Francis
+133660	Spain	Pago Negralada	84	110.00	Northern Spain	Vino de la Tierra de Castilla y León		Tempranillo	Abadia Retuerta
+150138	Chile		86	8.00	Maipo Valley			Cabernet Sauvignon	Morandé
+69559	Argentina		80	12.00	Mendoza Province	San Rafael		Sauvignon Blanc	Alfredo Roca
+143237	US	Block Collection Preston Vineyard	90	19.00	California	Dry Creek Valley	Sonoma	Viognier	Geyser Peak
+144726	US	Conner Lee Vineyards	90	18.00	Washington	Columbia Valley (WA)	Columbia Valley	Chardonnay	Sapphire Mountain Cellars
+108799	US	Carneros Selection	93	32.00	California	Carneros	Napa-Sonoma	Chardonnay	Gary Farrell
+47492	US	Sierra Madre Vineyard	94	54.00	California	Santa Maria Valley	Central Coast	Pinot Noir	Testarossa
+114045	Chile	Marques de Casa Concha	89	18.00	Pirque			Chardonnay	Concha y Toro
+9844	Italy	Sessantanni Old Vines	88	42.00	Southern Italy	Primitivo di Manduria		Primitivo	Feudi di San Marzano
+96910	US		90	10.00	Washington	Columbia Valley (WA)	Columbia Valley	Merlot	Kirkland Signature
+109062	Argentina	D'Autor	87	50.00	Mendoza Province	Mendoza		Red Blend	Santa Faustina
+15790	Austria		89	15.00	Burgenland			Austrian Red Blend	Gunter Triebaumer
+92875	France	Brut	84	20.00	Alsace	Crémant d'Alsace		Chardonnay	Ehrhart
+78349	Italy		87	15.00	Sicily & Sardinia	Sicilia		Nero d'Avola	Cantine Barbera
+71533	US	Catie's Corner Vineyard	87	25.00	California	Russian River Valley	Sonoma	Viognier	Lost Canyon
+76601	US		88	35.00	Oregon	Willamette Valley	Willamette Valley	Pinot Noir	Anne Amie
+97305	Italy		87	14.00	Tuscany	Chianti Classico		Sangiovese	Straccali
+92173	US	H3	87	15.00	Washington	Horse Heaven Hills	Columbia Valley	Chardonnay	Columbia Crest
+132887	Portugal	Reserva	90	16.00	Ribatejano			Portuguese Red	Quinta da Alorna
+27275	Australia	Prelude Vineyards	91	36.00	Western Australia	Margaret River		Chardonnay	Leeuwin Estate
+2765	Italy		86	24.00	Tuscany	Bolgheri		Red Blend	Giorgio Meletti Cavallari
+130983	Italy		88	38.00	Northeastern Italy	Venezia Giulia		Verduzzo	Bressan
+67494	Italy		86	18.00	Northeastern Italy	Colli Orientali del Friuli		Sauvignon	Colutta
+82992	Chile	Reserva	81	14.00	Central Valley			Sauvignon Blanc	Arauco
+55417	Argentina	Guarda	85	22.00	Mendoza Province	Mendoza		Malbec	Sinfin
+32015	Italy	Aves	89	30.00	Piedmont	Barbera d'Alba		Barbera	Comm. G. B. Burlotto
+112957	US		86	35.00	California	Dry Creek Valley	Sonoma	Cabernet Sauvignon	Merriam
+137827	France	Blason Brut Rosé	87	80.00	Champagne	Champagne		Champagne Blend	Perrier Jouët
+13105	Italy	1698	89	32.00	Tuscany	Bolgheri		Red Blend	Tringali Casanuova
+16581	Australia		84	7.00	Australia Other	South Eastern Australia		Chardonnay	Outback Chase
+105248	US		87	32.00	California	Paso Robles	Central Coast	Meritage	Dunning Vineyards
+95623	US		90	26.00	Washington	Columbia Valley (WA)	Columbia Valley	Syrah	Bergevin Lane
+124870	US	Mesa Verde Vineyard	90	20.00	California	Santa Barbara County	Central Coast	Syrah	Brander
+28052	US	Eagle Peak	88	10.00	California	California	California Other	Merlot	Fetzer
+80060	US	Red Dog Vineyard	87	48.00	California	Sonoma Mountain	Sonoma	Pinot Noir	Talisman
+137264	US		87	35.00	California	Russian River Valley	Sonoma	Pinot Noir	Longboard
+12074	US	Winderlea Legacy	92	75.00	Oregon	Dundee Hills	Willamette Valley	Pinot Noir	Winderlea
+111088	US	Rosemary's Vineyard	97	70.00	California	Arroyo Grande Valley	Central Coast	Pinot Noir	Talley
+65581	New Zealand		88	12.00	Hawke's Bay			Sauvignon Blanc	Glazebrook
+128710	Spain	Malleolus	92	50.00	Northern Spain	Ribera del Duero		Tinto del Pais	Emilio Moro
+132311	Spain		88	9.00	Levante	Jumilla		Red Blend	Bodegas Luzón
+140268	US	Bianco Di California	84	10.00	California	California	California Other	White Blend	Ca' Momi
+132890	Italy	Conte Ferdinando Guicciardini	90	24.00	Tuscany	Colli della Toscana Centrale		Syrah	Castello di Poppiano
+113479	US	Via Della Vigna	90	40.00	California	Paso Robles	Central Coast	Red Blend	La Filice
+108145	France		86	20.00	Bordeaux	Bordeaux		Bordeaux-style Red Blend	Château Lalande Balestard
+125065	US	Los Chamizal Vineyard	88	35.00	California	Sonoma Valley	Sonoma	Chardonnay	Deerfield Ranch
+23833	France	Les Folatières Premier Cru	94	80.00	Burgundy	Puligny-Montrachet		Chardonnay	Louis Jadot
+2315	US	Verah	90	35.00	California	Dry Creek Valley	Sonoma	Rhône-style Red Blend	Mounts
+70634	US		85	26.00	California	Yountville	Napa	Cabernet Sauvignon	Charles Krug
+145513	Australia	Diamond Label	87	12.00	Australia Other	South Eastern Australia		Pinot Noir	Rosemount
+65615	France	Bougros Grand Cru	94	75.00	Burgundy	Chablis		Chardonnay	William Fèvre
+28909	US	Church Creek Steel	86	16.00	Virginia	Virginia		Chardonnay	Chatham
+90690	US		90	20.00	Oregon	Columbia Valley (OR)	Oregon Other	Sauvignon Blanc	Sineann
+125818	Italy	Sibilla Appeninica Vin Santo	88	35.00	Central Italy	Marche		Passerina	Le Caniette
+127251	US		81	18.00	Kentucky	Kentucky		Chardonnay	Elk Creek Vineyards
+79352	Italy		87	14.00	Southern Italy	Beneventano		Falanghina	Vinosia
+115870	US	Lot 165	85	15.00	California	Los Carneros	Napa-Sonoma	Pinot Noir	Cameron Hughes
+78907	US	East Ridge Estate Vineyard	94	85.00	California	Sonoma Coast	Sonoma	Pinot Noir	Hirsch
+144248	US	Annabella Special Selection	84	14.00	California	Napa Valley	Napa	Merlot	Michael Pozzan
+87301	France		90	63.00	Burgundy	Chassagne-Montrachet		Chardonnay	Bouchard Père & Fils
+120862	US	Winfield Vineyard	92	80.00	California	Napa Valley	Napa	Cabernet Sauvignon	The Grade
+102885	US	Rooster Vineyard	86	22.00	California	Clear Lake	Mendocino/Lake Counties	Sauvignon Blanc	Musetta
+28456	Italy	Catulliano	89	16.00	Lombardy	Lugana		Turbiana	Pratello
+44951	France	Cuvée la Fleur Tabenot	85	20.00	Bordeaux	Côtes de Castillon		Bordeaux-style Red Blend	Château Hyot
+118471	US	White	83	10.00	California	California	California Other	White Blend	Big House
+91598	US		88	24.00	Oregon	Rogue Valley	Southern Oregon	Tempranillo	David Hill
+86029	US	Spofford Station	86	25.00	Oregon	Walla Walla Valley (OR)	Oregon Other	Cabernet Sauvignon	Lujon
+18712	Italy	La Bambina	86	15.00	Sicily & Sardinia	Sicilia		Rosé	Cantine Barbera
+1668	France	Cuvée des Conti	88	16.00	Southwest France	Bergerac Sec		Bordeaux-style White Blend	Château Tour des Gendres
+109036	Italy		85	110.00	Tuscany	Bolgheri Superiore		Red Blend	Grattamacco
+68282	US		85	18.00	California	Russian River Valley	Sonoma	Pinot Noir	Kenwood
+81347	US	Signature Collection	85	29.00	Oregon	Oregon	Oregon Other	Pinot Noir	King Estate
+107947	France	La Cuvée des Cigales	84	11.00	Languedoc-Roussillon	Vin de Pays des Coteaux de Murviel		Merlot-Grenache	Borie la Vitarelle
+68069	US	Claret	85	20.00	Washington	Wahluke Slope	Columbia Valley	Red Blend	Gilbert Cellars
+20867	US	Claret	88	35.00	California	Napa Valley	Napa	Cabernet Sauvignon	Bell
+43566	France	Cuvée Clarendon	92	22.00	Provence	Côtes de Provence		Rosé	Domaine Gavoty
+106572	South Africa	Brut	85	15.00	Western Cape			Champagne Blend	Graham Beck
+123714	US	Twenty Three Barrels	90	32.00	California	Sonoma County	Sonoma	Cabernet Sauvignon	Spann Vineyards
+60217	US	Alta Coma	88	40.00	California	Mendocino	Mendocino/Lake Counties	Sangiovese	Lookout Ridge
+25232	France	Cuvée Jean	88	30.00	Southwest France	Jurançon		Petit Manseng	Château Jolys
+143469	Australia		86	20.00	South Australia	McLaren Vale		Sauvignon Blanc	Geoff Merrill
+65731	New Zealand		87	20.00	Marlborough			Pinot Gris	Fairhall Downs
+43340	Italy	Morello di Prile	89	22.00	Tuscany	Maremma		Red Blend	Prelius
+64080	Australia	Merlot-Cabernet Sauvignon-Cabernet Franc	87	18.00	Western Australia	Pemberton		Bordeaux-style Red Blend	Picardy
+5012	US	Mayhem	90	56.00	California	Paso Robles	Central Coast	Syrah	Ascencion
+109502	US		94	23.00	California	Santa Barbara County	Central Coast	Chardonnay	Rusack
+120849	New Zealand	Taylors Pass Vineyard	92	25.00	Marlborough			Sauvignon Blanc	Villa Maria
+99627	Italy	Tasmorcan	88	18.00	Piedmont	Barbera d'Asti		Barbera	Elio Perrone
+135253	Spain	Reserva	87	49.00	Northern Spain	Ribera del Duero		Tempranillo	Alidis
+97333	Spain	Finca Vallobera	90	32.00	Northern Spain	Rioja		Tempranillo Blend	Vallobera
+129807	US	E. Passalacqua Heritage Estate	90	26.00	California	Russian River Valley	Sonoma	Zinfandel	Gia Domella
+138607	US		85	11.00	California	Santa Barbara County	Central Coast	Gewürztraminer	Firestone
+129121	New Zealand		84	20.00	Marlborough			Pinot Noir	Seven Terraces
+855	US	The Diva	90	45.00	California	Santa Lucia Highlands	Central Coast	Pinot Noir	Chateau Lettau
+119649	Argentina		81	15.00	Other	Neuquén		Pinot Noir	Areo
+98076	France	Seigneurs de Bergerac	83	11.00	Southwest France	Bergerac		Rosé	Yvon Mau
+64684	Australia		85	10.00	South Australia	South Australia		Chardonnay	Barossa Valley Estate
+82858	US	Elements by Artesa	84	20.00	California	Napa County-Sonoma County	Napa-Sonoma	Red Blend	Elements by Artesa
+144855	Spain	Reserva	81	13.00	Northern Spain	Navarra		Tempranillo	Palacio de La Vega
+14549	US		85	30.00	California	Alexander Valley	Sonoma	Chardonnay	Terra Sonoma
+4289	Italy		88	50.00	Tuscany	Brunello di Montalcino		Sangiovese	Belpoggio
+87409	France	Grand Cru Blanc de Blancs Réserve Brut	91	48.00	Champagne	Champagne		Chardonnay	Chapuy
+99302	Italy	Bricco Dani	88	30.00	Piedmont	Barbera d'Asti Superiore Nizza		Barbera	Villa Giada
+73772	US	Rosé of	86	17.00	Oregon	Chehalem Mountains	Willamette Valley	Pinot Noir	Carabella
+95614	Italy	Riserva Il Falcone	90	33.00	Southern Italy	Castel del Monte		Red Blend	Rivera
+12369	Italy		87	42.00	Southern Italy	Puglia		Red Blend	Cefalicchio
+56744	New Zealand		89	13.00	Marlborough			Sauvignon Blanc	Clifford Bay
+20251	France	Barrel Selection	86	11.00	Languedoc-Roussillon	Pays d'Oc		Chardonnay	La Forge Estate
+72200	Israel	Grand Vin	91	75.00	Haut-Judeé			Bordeaux-style Red Blend	Domaine du Castel
+149290	US	Highlands Estate Alisos Hills	93	30.00	California	Santa Barbara County	Central Coast	Syrah	Kendall-Jackson
+140975	Spain	Gran Reserva	86	20.00	Northern Spain	Rioja		Tempranillo	Campo Viejo
+84077	US	Upper Barn	91	60.00	California	Alexander Valley	Sonoma	Chardonnay	Stonestreet
+85142	Chile	Selección	82	15.00	Maipo Valley			Sauvignon Blanc	Viña Chocalan
+59944	US	Oriana White	90	24.00	Washington	Columbia Valley (WA)	Columbia Valley	White Blend	Brian Carter Cellars
+119775	US	Rancho Ontiveros Vineyard	94	55.00	California	Santa Maria Valley	Central Coast	Pinot Noir	Native 9
+45339	US		90	28.00	Washington	Columbia Valley (WA)	Columbia Valley	Merlot	Tamarack Cellars
+54429	US	Champoux & Loess Vineyards Reserve	90	100.00	Washington	Washington	Washington Other	Cabernet Sauvignon	Boudreaux Cellars
+119333	South Africa		87	30.00	Constantia			Sauvignon Blanc	Constantia Glen
+88949	France	Les Evocelles	91	64.00	Burgundy	Gevrey-Chambertin		Pinot Noir	Domaine de la Vougeraie
+120981	Australia	Classic	82	12.00	Victoria	Victoria		Shiraz	Marquee
+62307	US	Sarmento Vineyard	87	30.00	California	Santa Lucia Highlands	Central Coast	Pinot Noir	Aliento Del Sol
+25770	US	Holbrook Mitchell Vineyard	86	32.00	California	Napa Valley	Napa	Cabernet Franc	Rock Wall
+65040	US		90	15.00	California	Russian River Valley	Sonoma	Sauvignon Blanc	Angeline
+110313	Italy	Punta di Villa	87	30.00	Veneto	Amarone della Valpolicella Classico		Corvina, Rondinella, Molinara	Mazzi
+112624	US	1772 Edna Ranch	91	42.00	California	Edna Valley	Central Coast	Chardonnay	Tolosa
+38344	US	Estate Grown	83	28.00	Oregon	Rogue Valley	Southern Oregon	Merlot	Del Rio
+1462	Spain	Selecció	90	32.00	Catalonia	Terra Alta		Red Blend	Edetària
+82148	US		87	15.00	Washington	Columbia Valley (WA)	Columbia Valley	Chardonnay	Apex
+98486	US	Rancho La Viña Vineyard	87	54.00	California	Sta. Rita Hills	Central Coast	Pinot Noir	Pali
+32702	US	Clone 828	88	58.00	California	Sonoma Coast	Sonoma	Pinot Noir	Halleck
+26740	Germany	Bernkasteler alte Badstube am Doctorberg Trockenbeerenauslese - 375 ml	93	250.00	Mosel			Riesling	Dr. Pauly Bergweiler
+101955	Chile	1865 Single Vineyard	83	16.00	Maipo Valley			Cabernet Sauvignon	San Pedro
+53069	Germany		85	10.00	Mosel			Riesling	Ku Dé Ta
+112355	Spain	Gran Feudo Reserva	87	15.00	Northern Spain	Navarra		Tempranillo Blend	Bodegas Julián Chivite
+37629	Italy	500ml	87	40.00	Veneto	Recioto della Valpolicella Classico		Corvina, Rondinella, Molinara	Fabiano
+54988	Italy	Barocco	90	50.00	Sicily & Sardinia	Cerasuolo di Vittoria		Red Blend	Avide
+20717	Chile	EQ	88	20.00	San Antonio			Sauvignon Blanc	Matetic
+22771	France	Les Beaumonts Premier Cru	90	140.00	Burgundy	Vosne-Romanée		Pinot Noir	Louis Latour
+135020	US	Late Harvest Reserve	92	19.00	Washington	Rattlesnake Hills	Columbia Valley	Sauvignon Blanc	Silver Lake
+41060	Portugal	Grande Reserva Branco	88	18.00	Douro			Portuguese White	Quanta Terra
+47968	France		92	119.00	Burgundy	Gevrey-Chambertin		Pinot Noir	Domaine Henri Rebourseau
+122395	Italy	Maso delle Rose	88	27.00	Northeastern Italy	Alto Adige		Pinot Grigio	Josef Weger
+105129	Italy	Le More	86	15.00	Central Italy	Sangiovese di Romagna		Sangiovese	Castelluccio
+123595	Portugal	DFJ Caladoc/Alicante Bouschet	89	13.00	Lisboa			Portuguese Red	DFJ Vinhos
+30589	US		84	15.00	California	Sonoma County	Sonoma	Merlot	Cannonball
+36481	US		86	28.00	Oregon	Oregon	Oregon Other	Syrah	Obsidian
+57497	US	Starmont	92	27.00	California	Napa Valley	Napa	Cabernet Sauvignon	Merryvale
+78333	US	99W	87	19.00	Oregon	Willamette Valley	Willamette Valley	Pinot Noir	RouteStock Cellars
+76178	US	Vittorio's Vineyard	88	26.00	California	Redwood Valley	Mendocino/Lake Counties	Petite Sirah	Claudia Springs
+140131	US		86	20.00	California	Santa Ynez Valley	Central Coast	Sauvignon Blanc	Westerly
+47602	US		83	24.00	California	Santa Barbara County	Central Coast	Sangiovese	Morovino
+148025	France	Hautes Côtes de Beaune	82	29.00	Burgundy	Bourgogne		Pinot Noir	Didier Montchovet
+68700	Germany	QbA	84	14.00	Rheingau			Riesling	Baron Knyphausen
+73931	Italy	Nuhar	87	16.00	Sicily & Sardinia	Sicilia		Red Blend	Tenuta Rapitalà
+42134	Italy	Villa al Cortile	90	45.00	Tuscany	Brunello di Montalcino		Sangiovese Grosso	Piccini
+80120	US	Wavelength Sugarloaf Mountain Vineyard	92	69.00	California	Napa Valley	Napa	Syrah-Cabernet Franc	World's End
+22058	Spain	Juan de Valdelana	81	11.00	Northern Spain	Rioja		Tempranillo Blend	Valdelana
+14726	US	Artist Series I	88	20.00	New Mexico	New Mexico		Viognier	La Chiripada
+116121	France	Selection Château Labouré-Roi	84	17.00	Burgundy	Bourgogne		Pinot Noir	Labouré-Roi
+78259	Chile	1865 Single Vineyard	89	19.00	Leyda Valley			Sauvignon Blanc	San Pedro
+28058	Italy		88	25.00	Tuscany	Chianti Superiore		Red Blend	Donatella Cinelli Colombini
+115428	US		86	12.00	California	California	California Other	Pinot Grigio	Mirassou
+144968	US		90	40.00	California	Sonoma Coast	Sonoma	Pinot Noir	MacPhail
+39293	US		88	18.00	California	Santa Barbara County	Central Coast	Sauvignon Blanc	Alta Maria
+109031	Italy	Quercegobbe	86	50.00	Tuscany	Toscana		Merlot	Petra
+117172	US		82	50.00	New York	The Hamptons, Long Island	Long Island	Pinot Noir	Wölffer
+34649	US	Precious Mountain Vineyard	99	94.00	California	Sonoma Coast	Sonoma	Pinot Noir	Williams Selyem
+68615	US		88	24.00	California	Amador County	Sierra Foothills	Zinfandel	Robert Craig
+86539	US		82	17.00	California	Sonoma County	Sonoma	Cabernet Sauvignon	Q
+139294	Italy		87	28.00	Northeastern Italy	Collio		Sauvignon	Villa Russiz
+22812	Australia	Odyssey	88	43.00	South Australia	Coonawarra		Cabernet Sauvignon	Katnook Estate
+73073	Italy	Satén	87	24.00	Lombardy	Franciacorta		Chardonnay	Cà del Vént
+29142	US	Ancient Vine	93	25.00	California	Lodi	Central Valley	Cinsault	Michael David
+21949	Italy		83	9.00	Veneto	Valpolicella Classico		Corvina, Rondinella, Molinara	Begali
+64408	US	Vineyard Selection	87	16.00	Washington	Columbia Valley (WA)	Columbia Valley	Cabernet Sauvignon	Hogue
+114334	US	McDougall Vineyard	88	55.00	California	Sonoma Coast	Sonoma	Pinot Noir	Dutton-Goldfield
+14057	Chile	Casillero del Diablo Reserva Privada	87	14.00	Maipo Valley			Cabernet Sauvignon-Syrah	Concha y Toro
+92430	US		80	32.00	California	Paso Robles	Central Coast	Cabernet Sauvignon	Sculpterra
+125239	France		85	35.00	Burgundy	Bourgogne Hautes Côtes de Nuits		Chardonnay	Bertrand Ambroise
+33273	France		84	12.00	Bordeaux	Bordeaux		Bordeaux-style Red Blend	Château Haut Vieux Chêne
+16632	Italy	Altkirch	88	15.00	Northeastern Italy	Alto Adige		Chardonnay	Colterenzio
+67252	Italy	Il Poggio Riserva	87	44.00	Tuscany	Chianti Classico		Sangiovese	Castello di Monsanto
+81358	US		85	20.00	California	Napa Valley	Napa	Bordeaux-style Red Blend	Tetra
+85484	US	InSpire	94	60.00	California	Napa Valley	Napa	Cabernet Sauvignon	Boyanci
+60081	US	Lazy S Vineyard	83	40.00	California	Alexander Valley	Sonoma	Cabernet Sauvignon	Esterlina
+101796	Italy	Brut Claxa Bottle	87	17.00	Veneto	Conegliano Valdobbiadene Prosecco Superiore		Glera	Villa Sandi
+69225	Chile		93	87.00	Puente Alto			Bordeaux-style Red Blend	Almaviva
+24608	US	Little Bear Creek Red	90	20.00	Washington	Columbia Valley (WA)	Columbia Valley	Bordeaux-style Red Blend	Woodinville Wine Cellars
+44476	US		90	29.00	Washington	Columbia Valley (WA)	Columbia Valley	Malbec	Three Rivers
+29126	US	Camp Meeting Ridge Estate	94	58.00	California	Sonoma Coast	Sonoma	Chardonnay	Flowers
+1714	US	Estate Bottled	90	18.00	California	El Dorado	Sierra Foothills	Sauvignon Blanc	Lava Cap
+15723	Spain	Cármine	85	30.00	Levante	Jumilla		Monastrell	Bodegas Murtia
+78032	France		86	10.00	Beaujolais	Beaujolais-Villages		Gamay	Barton & Guestier
+39778	US	Reserve Dry	86	25.00	New York	Finger Lakes	Finger Lakes	Gewürztraminer	McGregor
+95379	Chile	Castillo de Molina Reserva	87	12.00	Maule Valley			Shiraz	San Pedro
+74055	Spain	Duque de Medina Reserva Old Vine	80	14.00	Northern Spain	Cariñena		Garnacha	Ignacio Marín
+138696	France	Grande Réserve Brut	92	60.00	Champagne	Champagne		Champagne Blend	Gosset
+73992	France	Cuvée Vieilles Vignes	90	24.00	Bordeaux	Puisseguin Saint-Émilion		Bordeaux-style Red Blend	Château Lanbersac
+100873	US	Corneauxcopia	82	35.00	Washington	Columbia Valley (WA)	Columbia Valley	Red Blend	Claar
+90964	Greece	Danielis	85	11.00	Greece			Red Blend	Achaia Clauss
+41093	US	Meredith Mitchell Vineyard	89	65.00	Oregon	McMinnville	Willamette Valley	Pinot Noir	Ken Wright
+149347	France	Le Troncsec	86	25.00	Loire Valley	Pouilly-Fumé		Sauvignon Blanc	Joseph Mellot
+120328	France	Montmains Premier Cru	91	35.00	Burgundy	Chablis		Chardonnay	Simonnet-Febvre
+51422	US		95	95.00	California	Napa Valley	Napa	Cabernet Sauvignon	Sinatra Family
+124764	US		85	15.00	New York	New York	New York Other	Merlot	Brotherhood
+87733	France	Les Caillerets Premier Cru	94	102.00	Burgundy	Chassagne-Montrachet		Chardonnay	Domaine Marc Morey
+71554	Hungary	Royal Cuvée	87	28.00	Villány			Bordeaux-style Red Blend	Bock
+73924	France		87	18.00	Burgundy	Mâcon-Villages		Chardonnay	Henri Perrusset
+26873	US		91	16.00	California	Mendocino County	Mendocino/Lake Counties	Syrah	Bonterra
+143699	US		93	70.00	California	Howell Mountain	Napa	Merlot	Duckhorn
+126846	US	Flood Family Vineyards	87	25.00	California	Santa Barbara County	Central Coast	Syrah	Rancho Sisquoc
+143348	Chile	Gran Reserva	87	15.00	Central Valley			Cabernet Sauvignon	Espiritu de Chile
+119566	US	Destiny Vineyards Unforgettable	84	38.00	California	Paso Robles	Central Coast	Merlot	Hunt Cellars
+72880	Italy	Vigna della Corona	91	86.00	Southern Italy	Aglianico del Vulture		Aglianico	Tenuta Le Querce
+83686	US		88	13.00	Washington	Yakima Valley	Columbia Valley	Gewürztraminer	Lone Birch
+23481	Italy		85	14.00	Piedmont	Moscato d'Asti		Moscato	Enrico Serafino
+63178	US	Sleepy Hollow Vineyard	88	35.00	California	Monterey	Central Coast	Chardonnay	Talbott
+12808	US		89	13.00	California	California	California Other	Merlot	Château Souverain
+19900	Italy	Casale Vecchio	87	18.00	Central Italy	Terre di Chieti		Pecorino	Farnese
+62913	Australia	Three Gardens Shiraz-Grenache-Mourvèdre	87	17.00	South Australia	Barossa Valley		Rhône-style Red Blend	Langmeil
+135442	Italy	Ronco Broilo	88	49.00	Northeastern Italy	Colli Orientali del Friuli		White Blend	Conte d'Attimis-Maniago
+53691	US		84	22.00	California	Shenandoah Valley (CA)	Sierra Foothills	Primitivo	Bray
+10983	France	Clos Capelune	93	60.00	Provence	Côtes de Provence		Rosé	Château Saint-Maur
+146835	Spain	Aniversario PA 84 Brut Nature	86	70.00	Catalonia	Cava		Sparkling Blend	Parxet
+99055	France	La Réserve du Crouzau St. Gervais	86	20.00	Rhône Valley	Côtes du Rhône Villages		Rhône-style Red Blend	Les Vignobles Foncalieu
+71102	US	Reserve	93	30.00	Washington	Columbia Valley (WA)	Columbia Valley	Cabernet Sauvignon	Barnard Griffin
+148186	US		93	115.00	California	St. Helena	Napa	Cabernet Sauvignon	Hourglass
+74590	US		90	18.00	California	California	California Other	Vermentino	Bailiwick
+116945	Australia		90	17.00	South Australia	Clare Valley		Cabernet Sauvignon	Wakefield Estate
+56034	Austria	Heideboden	90	28.00	Burgenland			Austrian Red Blend	Judith Beck
+105234	US	Alder Ridge Vineyard	91	40.00	Washington	Washington	Washington Other	Syrah	Coeur d'Alene
+66439	US	Redemption Zin	87	25.00	California	Dry Creek Valley	Sonoma	Zinfandel	Alexander Valley Vineyards
+37765	Spain		84	13.00	Northern Spain	Rioja		White Blend	Vivanco
+145213	Australia		89	27.00	South Australia	Coonawarra		Cabernet Sauvignon-Merlot	Punters Corner
+116416	Spain	Selección Especial	83	12.00	Northern Spain	Vino de la Tierra de Castilla y León		Tempranillo-Shiraz	Penascal
+102442	US	Sonoma Coast Cuvée	88	28.00	California	Sonoma Coast	Sonoma	Syrah	Baker Lane
+98506	US	Gowan Creek Vineyard	94	75.00	California	Anderson Valley	Mendocino/Lake Counties	Pinot Noir	Goldeneye
+108768	US		87	25.00	California	Santa Barbara County	Central Coast	Pinot Noir	Martin Ray
+69251	Greece	Mythic River	83	13.00	Nemea			Agiorgitiko	Estate Constantin Gofas
+118965	US		85	10.00	Washington	Washington	Washington Other	Merlot	Avery Lane
+102178	Chile	Reserva	85	12.00	Maipo Valley			Merlot	Porta
+33641	US		93	25.00	California	Sonoma County	Sonoma	Pinot Noir	Reaper
+136763	Australia	Nine Gums Vineyard	85	30.00	South Australia	McLaren Vale		Shiraz	Brick Road
+76790	US		93	38.00	Washington	Walla Walla Valley (WA)	Columbia Valley	Syrah	Abeja
+124923	Switzerland	Marengo	86	19.00	Vino da Tavola della Svizzera Italiana			Merlot	Delea
+113558	Italy	Custera	89	39.00	Sicily & Sardinia	Sicilia		Red Blend	Ceuso
+122546	US	Sleepy Hollow Vineyard	92	59.00	California	Santa Lucia Highlands	Central Coast	Pinot Noir	Testarossa
+68180	New Zealand		86	17.00	Nelson			Sauvignon Blanc	Seifried
+120060	US		84	20.00	California	Monterey County	Central Coast	Pinot Noir	Dahlia
+30512	France		86	9.00	Bordeaux	Bordeaux Blanc		Bordeaux-style White Blend	Château de l'Enclos
+13725	US	Home Ranch	89	26.00	California	Dry Creek Valley	Sonoma	Chardonnay	Sbragia
+82532	Greece		84	12.00	Nemea			Agiorgitiko	Kouros
+119253	Argentina		83	9.00	Mendoza Province	Mendoza		Malbec	Origin
+83940	Portugal	Cape Roca Fisherman	85	11.00	Vinho Verde			Portuguese White	Casca Wines
+28262	France	Elixir Demi-Sec Premier Cru	83	63.00	Champagne	Champagne		Champagne Blend	Bertrand-Delespierre
+3657	France	Grossi Laüe Limited Edition	94	55.00	Alsace	Alsace		Pinot Noir	Hugel
+25375	US	Bass Hill	87	30.00	Oregon	Willamette Valley	Willamette Valley	Pinot Noir	Amity Vineyards
+87527	US	Paragon Vineyard	91	17.00	California	Edna Valley	Central Coast	Grenache Blanc	Tangent
+72287	US	Reserve	86	30.00	California	Livermore Valley	Central Coast	Petit Verdot	Concannon
+84191	US	Caravan	92	42.00	California	Napa Valley	Napa	Cabernet Sauvignon	Darioush
+141918	Spain	Blanco	80	8.00	Northern Spain	Rioja		Viura	Montecillo
+23420	US	Estate	85	18.00	California	Lake County	Mendocino/Lake Counties	Zinfandel	Quackenbush
+95268	Italy		84	28.00	Southern Italy	Greco di Tufo		Greco	Macchialupa
+109901	US		87	28.00	Washington	Washington	Washington Other	Merlot	Camaraderie
+119516	US	Huber Vineyard	94	48.00	California	Sta. Rita Hills	Central Coast	Chardonnay	Diatom
+114891	US		88	45.00	Washington	Rattlesnake Hills	Columbia Valley	Chardonnay	Hudson Shah
+44230	Italy	Furlana	88	20.00	Northeastern Italy	Collio		Friulano	Conti Formentini
+40640	France		91	30.00	Bordeaux	Moulis-en-Médoc		Bordeaux-style Red Blend	Château Anthonic
+120236	US	Hailey's Block	95	60.00	California	Green Valley	Sonoma	Pinot Noir	Hartford Court
+127116	Australia		87	16.00	South Australia	Adelaide Hills		Pinot Gris	Sidewood
+44984	US	Signature	93	39.00	California	Paso Robles	Central Coast	Red Blend	Vina Robles
+127018	US		83	10.00	Washington	Columbia Valley (WA)	Columbia Valley	Syrah	Snoqualmie
+60281	France	Tradition de Campuget	84	12.00	Rhône Valley	Costières de Nîmes		Rosé	Château de Campuget
+117971	US	Destiny Ridge Vineyard ‘Shepherd's Mark'	89	18.00	Washington	Columbia Valley (WA)	Columbia Valley	White Blend	Alexandria Nicole
+56626	US	Brut	90	19.00	California	Mendocino County	Mendocino/Lake Counties	Champagne Blend	Scharffenberger
+31958	France	Tête de Cru Les Perrières	91	55.00	Burgundy	Pouilly-Fuissé		Chardonnay	Domaine Ferret
+20712	Italy	Capitel de' Roari	88	35.00	Veneto	Amarone della Valpolicella Classico		Corvina, Rondinella, Molinara	Luigi Righetti
+132757	Australia	Bin 444	86	9.00	Australia Other	South Eastern Australia		Cabernet Sauvignon	Wyndham Estate
+124180	Australia	The Scribbler	89	18.00	South Australia	Barossa		Cabernet Sauvignon-Shiraz	Yalumba
+59307	Spain	Finca Valpiedra Reserva	90	40.00	Northern Spain	Rioja		Tempranillo Blend	Martinez Bujanda
+133161	France	Grande Réserve Brut	85	24.00	Champagne	Champagne		Champagne Blend	Chanoine
+121659	US	Rough Justice Red	91	20.00	Washington	Columbia Valley (WA)	Columbia Valley	Red Blend	Barrister
+44370	US	Buchignani Vineyard	85	28.00	California	Dry Creek Valley	Sonoma	Zinfandel	Keating
+101367	Italy	Merlot	84	8.00	Central Italy	Umbria		Merlot	Cantina Tudernum
+89322	Italy		89	50.00	Piedmont	Barbaresco		Nebbiolo	Prunotto
+110409	Portugal	Reserva	92	25.00	Douro			Portuguese Red	Quinta de Ventozelo
+121722	US	Estate Bottled	90	24.00	California	Edna Valley	Central Coast	Chardonnay	Chamisal Vineyards
+3409	France	Terres Blanches	87	12.00	Southwest France	Côtes de Gascogne		White Blend	Domaine Chiroulet
+10529	Austria	Loibner Steinertal Smaragd	95	57.00	Wachau			Grüner Veltliner	F X Pichler
+54248	US		85	24.00	California	Paso Robles	Central Coast	Cabernet Sauvignon	Robert Hall
+74708	US	Extra Dry	85	10.00	California	California	California Other	Champagne Blend	JFJ
+108200	US	Salvestrin Estate Vineyard Three-D	94	110.00	California	St. Helena	Napa	Cabernet Sauvignon	Salvestrin
+73584	Spain	Crianza	84	30.00	Northern Spain	Ribera del Duero		Tempranillo	Alidis
+79937	US	Severed Head Red	84	18.00	California	Napa Valley	Napa	Red Blend	Spell Wine
+60166	US	Il Re Reserve	88	38.00	California	Red Hills Lake County	Mendocino/Lake Counties	Cabernet Sauvignon	Nordby
+121343	Chile	Gran Reserva	85	20.00	Bío Bío Valley			Pinot Noir	Porta
+46682	US		90	18.00	Oregon	Willamette Valley	Willamette Valley	Pinot Gris	Westrey
+94561	US		87	19.00	New York	Finger Lakes	Finger Lakes	Gewürztraminer	Standing Stone
+64948	US	Albutom Vineyard	92	45.00	California	Santa Cruz Mountains	Central Coast	Chardonnay	Thomas Fogarty
+6835	US	Oregon	87	22.00	Oregon	Willamette Valley	Willamette Valley	Pinot Noir	Coeur de Terre
+112111	Argentina		84	8.00	Mendoza Province	Mendoza		Viognier	Santa Julia
+108129	Italy	Il Corzano	87	40.00	Tuscany	Toscana		Red Blend	Fattoria Corzano e Paterno
+89892	Chile	Marques de Casa Concha	88	22.00	Peumo			Carmenère	Concha y Toro
+5058	France	Les Becs Fins	88	21.00	Rhône Valley	Côtes du Rhône Villages		Grenache-Syrah	Tardieu-Laurent
+127125	Italy	Martinette	87	14.00	Piedmont	Barbera d'Asti Superiore		Barbera	Alfonso Boeri
+119386	Chile	Reserva	82	13.00	Limarí Valley			Chardonnay	Terra Andina
+61132	Australia		86	16.00	South Australia	Langhorne Creek		Shiraz	The Winner's Tank
+28056	Spain	MIM Natura Brut Reserva	88	20.00	Catalonia	Cava		Sparkling Blend	Marqués de Gelida
+40222	Chile	LFE 900 Single Vineyard	90	35.00	Colchagua Valley			Red Blend	Luis Felipe Edwards
+96513	US	Meek Vineyard	90	42.00	Washington	Columbia Valley (WA)	Columbia Valley	Petit Verdot	OS Winery
+134730	US	The Whitewing Amber Ridge	93	50.00	California	Russian River Valley	Sonoma	Pinot Noir	Armanino Family Cellars
+111280	US		84	10.00	California	Alexander Valley	Sonoma	Sauvignon Blanc	DeLorimier
+127077	Italy	Extra Dry	85	19.00	Veneto	Prosecco di Valdobbiadene		Prosecco	Varaschin
+46976	US	3 Divas	89	25.00	California	Russian River Valley	Sonoma	Rhône-style White Blend	Montemaggiore
+139728	US	Camel Hill	88	55.00	California	Santa Cruz Mountains	Central Coast	Syrah	Martella
+133198	Spain	Gran Reserva	90	38.00	Northern Spain	Rioja		Tempranillo	Ramón Bilbao
+66849	US	Tondré's Grapefield	86	55.00	California	Santa Lucia Highlands	Central Coast	Pinot Noir	Morgan
+90319	US	Dry	87	13.00	New York	Finger Lakes	Finger Lakes	Riesling	Wagner
+822	US	Circle S Vineyard	90	70.00	California	Napa Valley	Napa	Cabernet Sauvignon	Tetra
+86830	France		82	11.00	Languedoc-Roussillon	Vin de Pays d'Oc		Pinot Noir	Wild Pig
+125649	Chile	Reserva	87	12.00	Cachapoal Valley			Cabernet Sauvignon	Gracia de Chile
+64952	Italy		85	9.00	Northeastern Italy	Alto Adige		Pinot Grigio	Josef Weger
+74238	US	Family Classic	87	20.00	California	North Coast	North Coast	Cabernet Sauvignon	Raymond
+88160	Portugal	Coreto	84	6.00	Estremadura			Rosé	DFJ Vinhos
+24160	Italy	Guado al Tasso	97	102.00	Tuscany	Bolgheri Superiore		Red Blend	Marchesi Antinori
+99498	Chile	Reserva	88	12.00	Colchagua Valley			Malbec	Santa Rita
+80041	Germany	Feinherb	87	18.00	Mosel			Riesling	Dr. Pauly Bergweiler
+64961	Argentina	Acorde #1 Reserve	85	36.00	Mendoza Province	Mendoza		Malbec-Cabernet Sauvignon	Preludio
+142994	Chile	Doña Isadora	88	9.00	Maipo Valley			Riesling	Cousiño-Macul
+114719	Italy		92	61.00	Tuscany	Brunello di Montalcino		Sangiovese	Argiano
+25155	US	Semi-Dry	88	13.00	New York	New York	New York Other	Riesling	Heron Hill
+139014	New Zealand		87	18.00	Marlborough			Sauvignon Blanc	Huia
+38536	Chile	Auma Los Lingues	91	100.00	Colchagua Valley			Red Blend	Koyle
+136009	US	Lone Redwood Ranch	94	25.00	California	Russian River Valley	Sonoma	Zinfandel	Joseph Swan Vineyards
+148203	US	Don Miguel Vineyard Dobles Lías	90	45.00	California	Russian River Valley	Sonoma	Chardonnay	Marimar Torres
+124610	Chile	Medalla Real Special Reserve	90	19.00	Maipo Valley			Cabernet Sauvignon	Santa Rita
+69039	France	Bourgogne A. Rodet	85	18.00	Burgundy	Bourgogne		Pinot Noir	Antonin Rodet
+88851	US		88	12.00	Oregon	Oregon	Oregon Other	Pinot Gris	A to Z
+122061	France		92	22.00	Loire Valley	Savennières		Chenin Blanc	Domaine des Baumard
+73346	US		87	65.00	California	Napa Valley	Napa	Cabernet Sauvignon	Vellum
+28255	US	Naughty Little Hillsides Estate	90	25.00	California	Sta. Rita Hills	Central Coast	Pinot Gris	Babcock
+17718	US		88	20.00	Oregon	Umpqua Valley	Southern Oregon	Syrah	Melrose
+108843	US		82	19.00	California	Fiddletown	Sierra Foothills	Zinfandel	Santino
+24798	Italy	Saia	89	36.00	Sicily & Sardinia	Sicilia		Nero d'Avola	Feudo Maccari
+51779	Spain	Victorino	93	63.00	Northern Spain	Toro		Tinta de Toro	Teso La Monja
+30107	Germany	Graacher Himmelreich Auslese	92	51.00	Mosel			Riesling	Joh. Jos. Prüm
+137249	US		88	22.00	Washington	Columbia Valley (WA)	Columbia Valley	Cabernet Sauvignon	Gordon Brothers
+113917	US	Sagemoor Vineyard	89	29.00	Washington	Columbia Valley (WA)	Columbia Valley	Cabernet Sauvignon	Columbia Winery
+25277	Italy	Stemmari	87	10.00	Sicily & Sardinia	Sicilia		Syrah	Feudo Arancio
+140906	US		89	30.00	Washington	Walla Walla Valley (WA)	Columbia Valley	Cabernet Sauvignon	Zerba Cellars
+61825	Australia	Chookshed	88	85.00	South Australia	Barossa Valley		Zinfandel	Rusden
+93861	Spain	Calvario	93	150.00	Northern Spain	Rioja		Tempranillo	Finca Allende
+132425	US		88	24.00	California	Carneros	Napa-Sonoma	Pinot Grigio	Benessere
+63012	US	Da Red	88	18.00	California	Edna Valley	Central Coast	Red Blend	Domaine Alfred
+29163	Italy	Castello di Montespertoli Riserva	87	30.00	Tuscany	Chianti Montespertoli		Red Blend	Castello Sonnino
+150632	US		88	20.00	California	Redwood Valley	Mendocino/Lake Counties	Zinfandel	Lolonis
+38712	US	ReZerve	90	24.00	California	Amador County	Sierra Foothills	Primitivo	Sobon Estate
+122686	US	Wahluke Slope Vineyard	89	28.00	Washington	Columbia Valley (WA)	Columbia Valley	Malbec	Arbor Crest
+13055	France		91	25.00	France Other	Arbois		Chardonnay	Domaine Daniel Dugois
+68681	France	Aric	92	20.00	Languedoc-Roussillon	Corbières		Rhône-style Red Blend	Domaine Famille Lignères
+138943	France	Grand Siècle La Cuvée Brut	90	90.00	Champagne	Champagne		Champagne Blend	Laurent-Perrier
+3860	US	Copeland Vineyard	90	26.00	Washington	Rattlesnake Hills	Columbia Valley	Cabernet Franc	Savage Grace
+71809	Spain		82	10.00	Central Spain	Valdepeñas		Tempranillo	Montecruz
+130703	Chile		83	9.00	Central Valley			Shiraz	San Elias
+29863	US		88	23.00	Washington	Columbia Valley (WA)	Columbia Valley	Tempranillo	Ott & Murphy
+85937	US	Lot 110	83	18.00	California	Carneros	Napa-Sonoma	Pinot Noir	Cameron Hughes
+75048	Italy	Tridentum Dosaggio Zero	90	39.00	Northeastern Italy	Trento		Pinot Nero	Cesarini Sforza
+123647	Argentina	Reserva	87	18.00	Mendoza Province	Tupungato		Pinot Noir	Domaine Jean Bousquet
+28910	Spain	Viña Rubican Crianza	86	14.00	Northern Spain	Navarra		Red Blend	Bodegas Corellanas
+24678	US	Estate	89	18.00	California	Sonoma Valley	Sonoma	Viognier	Kunde
+144820	France	Cuvée Paradis Brut Rosé	90	110.00	Champagne	Champagne		Champagne Blend	Alfred Gratien
+78227	US	Estate Vineyard	87	22.00	California	Sonoma Valley	Sonoma	Marsanne	Wellington
+36584	US		81	33.00	California	California	California Other	Barbera	Villa Andretti
+98669	US	Peay Vineyard	95	54.00	California	Russian River Valley	Sonoma	Pinot Noir	Williams Selyem
+50971	Italy	Colbertina	86	25.00	Piedmont	Barbera d'Alba		Barbera	Tenuta L'Illuminata
+56353	France	Les Romains	92	59.00	Loire Valley	Sancerre		Sauvignon Blanc	Domaine Vacheron
+133109	US		88	18.00	California	Mendocino County	Mendocino/Lake Counties	Viognier	Bonterra
+22855	South Africa	The Mint	90	45.00	Stellenbosch			Cabernet Sauvignon	Thelema
+55192	US		91	20.00	Washington	Columbia Valley (WA)	Columbia Valley	Chardonnay	L'Ecole No. 41
+92263	Australia	Unwooded	85	18.00	South Australia	South Australia		Chardonnay	Chapel Hill
+68822	Spain	Reserva	91	77.00	Northern Spain	Rioja		Tempranillo	Remírez de Ganuza
+144252	US	Eutenier Sylar Vineyard	84	17.00	California	Lake County	Mendocino/Lake Counties	Sauvignon Blanc	X
+136408	Italy	Tané	90	60.00	Sicily & Sardinia	Sicilia		Red Blend	Valle dell'Acate
+105179	US		90	16.00	Oregon	Oregon	Oregon Other	Chardonnay	A to Z
+2322	Italy	Cannubi Boschis	90	70.00	Piedmont	Barolo		Nebbiolo	Cantina del Nebbiolo
+55726	US	Syrah du Soleil	85	36.00	California	Sonoma County	Sonoma	Syrah	Collier Falls
+73467	US		83	28.00	California	Napa Valley	Napa	Sangiovese	Benessere
+31485	US	35th Anniversary Reserve Mailbox Vineyard	88	64.00	California	Spring Mountain District	Napa	Merlot	Keenan
+15739	US		85	12.00	Washington	Columbia Valley (WA)	Columbia Valley	Riesling	Jones of Washington
+40461	US		90	14.00	California	Edna Valley	Central Coast	Chardonnay	Fossil Point
+63317	Spain		86	12.00	Catalonia	Terra Alta		Syrah-Grenache	Las Colinas Del Ebro
+140360	US	Wine Creek Ranch	91	24.00	California	Dry Creek Valley	Sonoma	Grenache	Quivira
+67961	Italy	Riserva	83	22.00	Tuscany	Chianti Classico		Sangiovese	Valiano
+8773	Slovenia	Hand Harvested Estate Bottled	86	7.00	Primorska			Pinot Grigio	Avia
+8682	US		86	17.00	California	Central Coast	Central Coast	Pinot Noir	Edna Valley Vineyard
+61668	US	Sanford & Benedict Vineyard	91	48.00	California	Sta. Rita Hills	Central Coast	Pinot Noir	Sanford
+129867	Israel	Appellation Kosher	84	24.00	Upper Galilee			Merlot	Carmel
+67787	US		83	12.00	Washington	Columbia Valley (WA)	Columbia Valley	White Riesling	Barnard Griffin
+74321	US		90	10.00	Washington	Washington	Washington Other	Riesling	Washington Hills
+98500	US	Buckeye Vineyard	95	85.00	California	Howell Mountain	Napa	Cabernet Sauvignon	Piña
+121019	US	Harrison Hill Red Wine	93	75.00	Washington	Yakima Valley	Columbia Valley	Red Blend	DeLille
+136423	Argentina	Reserve	83	13.00	Mendoza Province	Mendoza		Chardonnay	Caoba
+15014	US	Rancho Santa Rosa	90	30.00	California	Sta. Rita Hills	Central Coast	Syrah	Foley
+126978	US	Reserve	87	40.00	California	Russian River Valley	Sonoma	Chardonnay	Rodney Strong
+93622	France		83	15.00	Alsace	Alsace		Pinot Gris	Domaine Specht
+98224	Germany	Johannisberger Klaus Spätlese	89	43.00	Rheingau			Riesling	Johannishof
+35192	US		91	39.00	Washington	Walla Walla Valley (WA)	Columbia Valley	Merlot	Reininger
+38164	France		91	19.00	Languedoc-Roussillon	Fitou		Grenache-Carignan	Gérard Bertrand
+20382	Germany	Medium Sweet	85	11.00	Mosel			Riesling	blüfeld
+108532	US		89	85.00	California	Napa Valley	Napa	Semillon-Sauvignon Blanc	Dolce
+5910	US	Dutton Ranch Rued Vineyard	92	55.00	California	Green Valley	Sonoma	Chardonnay	Dutton-Goldfield
+49903	Italy	Coste a Preola	87	17.00	Sicily & Sardinia	Sicilia		Nero d'Avola	Tenuta Gorghi Tondi
+23529	Italy	Santo	85	10.00	Piedmont	Moscato d'Asti		Moscato	Santero
+86429	France	Teurons Premier Cru	91	55.00	Burgundy	Beaune		Pinot Noir	Bouchard Père & Fils
+21522	Chile	Eco Balance	86	9.00	Colchagua Valley			Carmenère	Emiliana
+134348	US	Stolpman Vineyard	88	33.00	California	Santa Ynez Valley	Central Coast	Nebbiolo	Novy
+183	US	Boushey Vineyard	88	20.00	Washington	Yakima Valley	Columbia Valley	Picpoul	Syncline
+16734	US	Winemaker's Selection	83	9.00	California	Monterey	Central Coast	Riesling	Jekel
+110516	US		87	28.00	Washington	Walla Walla Valley (WA)	Columbia Valley	Cabernet Sauvignon	Gifford Hirlinger
+149328	New Zealand	Rifleman's	90	36.00	Hawke's Bay			Chardonnay	Sacred Hill
+47620	Germany	Bernkasteler Kurfürstlay Kabinett	86	14.00	Mosel			Riesling	Leonard Kreusch
+40117	US	Heritage Field Blend	90	25.00	California	Lodi	Central Valley	Red Blend	Borra
+113683	US		83	12.00	California	Monterey County	Central Coast	Riesling	Blackstone
+7924	France	Clos Windsbuhl Hunawihr	92	80.00	Alsace	Alsace		Pinot Gris	Domaine Zind-Humbrecht
+37351	France	Brut	87	35.00	Champagne	Champagne		Champagne Blend	Vollereaux
+74604	Germany	Hochheimer Kirchenstück Spätlese Trocken	90	34.00	Rheingau			Riesling	Domdechant Werner
+9217	US	Turas	85	32.00	Idaho			Red Blend	Telaya
+123424	US	Clos Pepe Vineyard	87	48.00	California	Sta. Rita Hills	Central Coast	Pinot Noir	A.P. Vin
+97082	US		89	13.00	California	Mendocino County	Mendocino/Lake Counties	Chardonnay	Bonterra
+38773	Spain	Lealtanza Selección Especial Reserva	86	36.00	Northern Spain	Rioja		Tempranillo	Altanza
+17406	Austria	Extra Brut Burgundersekt	88	23.00	Österreichischer Sekt			Champagne Blend	Graf Hardegg
+10740	US	Reserve	86	39.00	California	Livermore Valley	Central Coast	Cabernet Sauvignon	McGrail
+67551	Chile		85	7.00	Maule Valley			Merlot	Alfasi
+115481	France	Les Champs Canet Premier Cru	93	95.00	Burgundy	Puligny-Montrachet		Chardonnay	Domaine Louis Carillon
+92712	US	Estate	84	22.00	California	Central Coast	Central Coast	Viognier	Clos La Chance
+122908	Portugal	Special Reserve Tawny	86	18.00	Port			Port	Poças
+64271	Italy	Cartizze Cuvée Viviana	87	25.00	Veneto	Prosecco Superiore di Cartizze		Prosecco	Valdo
+72223	US	Endeavour	92	65.00	California	Dry Creek Valley	Sonoma	Cabernet Sauvignon	Dry Creek Vineyard
+129328	US		85	23.00	California	Napa Valley	Napa	Cabernet Sauvignon	B Side
+118322	Italy	Filimei	85	16.00	Southern Italy	Salento		Negroamaro	L'Astore Masseria
+37398	US	Katherine's Vineyard	91	22.00	California	Santa Maria Valley	Central Coast	Chardonnay	Cambria
+12255	Italy	Cedro Riserva	89	24.00	Tuscany	Chianti Rufina		Red Blend	Fattoria Lavacchio
+101294	US	Grand Firepeak Cuvée	89	33.00	California	Edna Valley	Central Coast	Pinot Noir	Baileyana
+68030	New Zealand	Distinction	86	14.00	Hawke's Bay			Merlot	Kemblefield
+84876	US		87	17.00	California	Sonoma County	Sonoma	Merlot	Sebastiani
+141597	US	Estate Grown	85	36.00	California	Carneros	Napa-Sonoma	Pinot Noir	Robert Stemmler
+41944	France		87	25.00	Rhône Valley	Châteauneuf-du-Pape		Rhône-style Red Blend	Clerget
+138508	Austria	Loibenberg Smaragd	90	60.00	Wachau			Riesling	Alzinger
+47424	Spain		87	7.00	Northern Spain	Campo de Borja		Garnacha	Crucillon
+92000	France	Brut Blanc de Blancs	86	23.00	Alsace	Crémant d'Alsace		Pinot Blanc	Lucien Albrecht
+96784	Italy	Black Label	90	55.00	Tuscany	Colli della Toscana Centrale		Red Blend	I Balzini
+69436	France	Les Jumelles	89	80.00	Rhône Valley	Côte Rôtie		Syrah	Paul Jaboulet Aîné
+65059	US		90	34.00	Washington	Horse Heaven Hills	Columbia Valley	Cabernet Sauvignon	Tertulia
+130680	France	Croix de Basson	84	15.00	Provence	Côtes de Provence		Rosé	Vignerons de Correns
+103094	Chile		84	20.00	Casablanca Valley			Red Blend	Primus
+69965	Chile	Prima Reserva	80	13.00	Maipo Valley			Merlot	De Martino
+93575	Italy	Pasiteo	89	29.00	Tuscany	Vino Nobile di Montepulciano		Prugnolo Gentile	Fassati
+25583	US	Estate	87	18.00	California	El Dorado	Sierra Foothills	Roussanne	Holly's Hill
+33558	US	Jerusalem Hill	89	85.00	Oregon	Willamette Valley	Willamette Valley	Pinot Noir	Domaine Serene
+68950	US	QO-NE Red	84	30.00	Washington	Columbia Valley (WA)	Columbia Valley	Red Blend	Northwest Totem Cellars
+66219	France		91	50.00	Burgundy	Gevrey-Chambertin		Pinot Noir	Manuel Olivier
+121130	Italy	Orchidea	91	39.00	Tuscany	Toscana		Red Blend	Fattoria di Casalbosco
+14821	US	Coro Mendocino	92	35.00	California	Mendocino County	Mendocino/Lake Counties	Red Blend	Fetzer
+19973	US	Oso Vineyard	87	50.00	California	Napa Valley	Napa	Cabernet Sauvignon	Emblem
+84622	France	Collection Premier Cru	89	79.00	Burgundy	Volnay		Pinot Noir	L. Tramier & Fils
+10052	US		85	12.00	California	California	California Other	Merlot	Leese-Fitch
+81718	US	Estate	85	19.00	New York	North Fork of Long Island	Long Island	Merlot	Raphael
+134308	Italy		88	17.00	Northeastern Italy	Colli Orientali del Friuli		Pinot Bianco	Ermacora
+40422	US	Winemaker's Select	86	8.00	Washington	Columbia Valley (WA)	Columbia Valley	Riesling	Snoqualmie
+142578	US	To Kalon Vineyard I Block	94	65.00	California	Napa Valley	Napa	Fumé Blanc	Robert Mondavi
+82836	Italy		84	10.00	Sicily & Sardinia	Sicilia		Merlot	Lagaria
+118850	Germany	Bechtheimer Rosengarten Eiswein 375 ml	82	34.00	Rheinhessen			Gewürztraminer	G&M; Machmer
+99514	Australia	Bells & Whistles	86	19.00	South Australia	Limestone Coast		Red Blend	St Mary's
+38286	US		86	31.00	Oregon	Umpqua Valley	Southern Oregon	Pinot Noir	Reustle
+14352	France	Les Griottes	85	15.00	Beaujolais	Beaujolais		Gamay	Domaine du Vissoux
+145566	Spain	Crianza	89	13.00	Northern Spain	Navarra		Tempranillo Blend	Eolo
+22753	Italy		88	28.00	Tuscany	Rosso di Montalcino		Sangiovese Grosso	Tenuta Il Poggione
+18747	France	Grand Millésime	93	42.00	Southwest France	Pécharmant		Bordeaux-style Red Blend	Château de Tiregand
+31106	US		87	48.00	California	Napa Valley	Napa	Cabernet Franc	Sequoia Grove
+114384	Spain		83	10.00	Northern Spain	Rueda		White Blend	Inspiración Pampano
+122928	US		90	14.00	Washington	Yakima Valley	Columbia Valley	Riesling	Airfield Estates
+130636	Italy	Giulio Riserva del Fondatore	93	90.00	Northeastern Italy	Trento		Chardonnay	Ferrari
+82466	US	Ritchie Vineyard	87	40.00	California	Russian River Valley	Sonoma	Chardonnay	De Loach
+28676	US		87	18.00	New York	North Fork of Long Island	Long Island	Sauvignon Blanc	Bouquet
+125350	France		88	36.00	Burgundy	Macon-Verge		Chardonnay	Domaine Leflaive
+29809	Portugal	Serras de Azeitão Selecção do Enólogo	85	12.00	Península de Setúbal			Portuguese White	Bacalhôa Wines of Portugal
+61450	France	Demoiselle Tête de Cuvée	85	33.00	Champagne	Champagne		Champagne Blend	Vranken
+68218	US		85	28.00	Washington	Walla Walla Valley (WA)	Columbia Valley	Cabernet Sauvignon	Holmes Harbor Cellars
+131646	US	Stainless Cuvée	92	20.00	Washington	Wahluke Slope	Columbia Valley	Chardonnay	Rulo
+38610	Italy	Etichetta Blu	87	16.00	Tuscany	Montecarlo		Red Blend	Tenuta del Buonamico
+18541	South Africa	Adama	86	18.00	Wellington			Red Blend	Bosman Family Vineyards
+80415	US	Parsons' Vineyard	92	49.00	California	Russian River Valley	Sonoma	Pinot Noir	Siduri
+15410	Australia	Giant Steps Vineyard, Bernard Clones	87	40.00	Victoria	Yarra Valley		Chardonnay	Sexton
+28430	US	Laki's Vineyard Estate	90	111.00	California	Oak Knoll District	Napa	Cabernet Sauvignon	Eleven Eleven
+76416	US	Ciel du Cheval Vineyard	94	35.00	Washington	Red Mountain	Columbia Valley	Red Blend	Soos Creek
+66900	US	Eileen Vineyard	89	45.00	Oregon	Willamette Valley	Willamette Valley	Pinot Noir	Cristom
+74780	Germany	Piesporter Goldtröpfchen Kabinett	90	23.00	Mosel			Riesling	Bischöfliche Weingüter Trier
+55710	Chile		85	7.00	Colchagua Valley			Cabernet Sauvignon	La Playa
+83586	Portugal	Azul Portugal	87	11.00	Palmela			Castelão	Wines & Winemakers
+113032	France	Le Méal	96	202.00	Rhône Valley	Hermitage		Syrah	M. Chapoutier
+32180	US	Olenik Vineyard Unfiltered	90	52.00	Oregon	Chehalem Mountains	Willamette Valley	Pinot Noir	J. Christopher
+121151	South Africa	Chenin Blanc - Sauvignon Blanc	86	10.00	Stellenbosch			White Blend	Bradgate
+147056	US		86	30.00	California	Alexander Valley	Sonoma	Cabernet Sauvignon	Arbios
+130818	France	Cuvée Tradition	89	32.00	Bordeaux	Saint-Émilion		Bordeaux-style Red Blend	Château Bellerose Figeac
+88223	France		88	30.00	Burgundy	Pouilly-Fuissé		Chardonnay	Bouchard Père & Fils
+32755	US	Rho	82	45.00	California	Sta. Rita Hills	Central Coast	Pinot Noir	Ampelos
+130128	US	Mes Trois Amours	83	36.00	California	California	California Other	Red Blend	Ledson
+40521	US		88	26.00	Washington	Columbia Valley (WA)	Columbia Valley	Cabernet Franc	Michael Florentino
+120167	US		93	20.00	Washington	Columbia Valley (WA)	Columbia Valley	Viognier	K Vintners
+103126	Italy	Aione	93	48.00	Tuscany	Toscana		Red Blend	Podere L'Aione
+105459	Australia	Single Vineyard	90	27.00	Western Australia	Western Australia		Chardonnay	Wise
+48801	US		91	15.00	Washington	Columbia Valley (WA)	Columbia Valley	Sauvignon Blanc	Rulo
+105079	US	Ecclestone	87	20.00	California	Central Coast	Central Coast	White Blend	Tangent
+140765	US		87	19.00	California	Sonoma County	Sonoma	Merlot	Dry Creek Vineyard
+100015	South Africa	Kadette	90	13.00	Stellenbosch			Red Blend	Kanonkop
+90090	US		90	15.00	California	Monterey	Central Coast	Riesling	Brass Tacks
+130366	France	Réserve	83	22.00	Alsace	Alsace		Gewürztraminer	Gustave Lorentz
+146126	US		87	25.00	California	Arroyo Grande Valley	Central Coast	Pinot Noir	Perbacco Cellars
+88174	Argentina	Reserva	87	12.00	Mendoza Province	Mendoza		Malbec	Santa Julia
+83887	US	Alban Vineyard	93	42.00	California	Edna Valley	Central Coast	Viognier	Failla
+7892	US		85	10.00	California	California	California Other	Sauvignon Blanc	Pepi
+129412	France	Colombard/Sauvignon	85	11.00	Southwest France	Vin de Pays des Côtes de Gascogne		Colombard-Sauvignon Blanc	Haut Marin
+58213	South Africa	Pincushion Vineyard	87	25.00	Cape Agulhas			Sauvignon Blanc	Lomond
+80932	France		88	25.00	Bordeaux	Haut-Médoc		Bordeaux-style Red Blend	Château Lamothe-Cissac
+126059	Chile	Casa	87	13.00	Rapel Valley			Merlot	Lapostolle
+38066	Spain	Reserva Selection Brut	83	15.00	Catalonia	Cava		Sparkling Blend	Mont Paral
+123926	US	Josie's Knoll Reserve	86	19.00	Virginia	Monticello		Merlot	Lovingston
+89355	Spain	Orchidea	86	13.00	Northern Spain	Navarra		Sauvignon Blanc	Inurrieta
+136479	France	Prestige	84	11.00	Rhône Valley	Côtes du Rhône		Rhône-style White Blend	La Châsse du Pape
+87185	South Africa		86	13.00	Coastal Region			Cabernet Sauvignon	Porcupine Ridge
+104323	Spain	Deóbriga Selección Familiar	91	22.00	Northern Spain	Rioja		Tempranillo Blend	R. de Ayala Lete E Hijos
+49435	Italy	Le Morete	88	18.00	Veneto	Valpolicella Superiore Ripasso		Corvina, Rondinella, Molinara	Manara
+20390	US		85	24.00	Oregon	Willamette Valley	Willamette Valley	Chardonnay	Torii Mor
+4148	US	Barrel Select	89	80.00	Oregon	Chehalem Mountains	Willamette Valley	Pinot Noir	Vidon Vineyard
+132030	Portugal	Evel Tinto	88	13.00	Douro			Portuguese Red	Real Companhia Velha
+23600	Italy	Casa Sant'Orsola	84	14.00	Piedmont	Asti		Moscato	Fratelli Martini
+6826	Italy	Castelletto Riserva	88	51.00	Piedmont	Roero		Nebbiolo	Malabaila
+56131	Croatia	Gran	89	45.00	Istria			Teran	Coronica
+61449	US		85	10.00	California	River Junction	Central Valley	Chardonnay	McManis
+72214	Portugal	Vintage	92	55.00	Port			Port	Romariz
+120160	Italy	Campo Inferi Riserva	93	85.00	Veneto	Amarone della Valpolicella Classico		Corvina, Rondinella, Molinara	Brunelli
+31259	US	Brut Cuvée	91	42.00	California	Santa Barbara County	Central Coast	Sparkling Blend	Goat Bubbles
+81189	Italy	Re Della Notte Extra Dry	85	15.00	Piedmont	Piedmont		Sparkling Blend	Veglio
+68621	France	Cuvée Sommelongue	88	10.00	Rhône Valley	Côtes du Rhône		Rhône-style Red Blend	Domaine Andre Brunel
+133513	US	Oak Savanna Vineyard	87	35.00	California	Santa Ynez Valley	Central Coast	Sangiovese	Koehler
+92413	US		85	20.00	California	Santa Maria Valley	Central Coast	Chardonnay	Three Saints
+36855	Argentina		85	11.00	Mendoza Province	Mendoza		Cabernet Sauvignon	Argento
+3267	Germany	Trocken	89	19.00	Rheinhessen			Grauburgunder	Thörle
+135315	Spain		84	7.00	Central Spain	Vino de la Tierra de Castilla		Tempranillo-Cabernet Sauvignon	Infinitus
+141528	US		88	25.00	Washington	Columbia Valley (WA)	Columbia Valley	Barbera	Ryan Patrick
+35140	Germany	Spätlese	87	23.00	Pfalz			Gewürztraminer	Fitz-Ritter
+79883	Chile	Selected Terroir	85	10.00	Maipo Valley			Sauvignon Blanc	Santa Ema
+118496	US	Appellation Series	83	30.00	California	Santa Lucia Highlands	Central Coast	Chardonnay	Cru
+103551	Italy	Cartizze Dry	88	30.00	Veneto	Prosecco Superiore di Cartizze		Prosecco	Masottina
+49010	South Africa		87	11.00	Durbanville			Sauvignon Blanc	Durbanville Hills
+111197	US	TF	88	20.00	Oregon	Willamette Valley	Willamette Valley	Tocai Friulano	Adelsheim
+83511	US		89	36.00	Oregon	Willamette Valley	Willamette Valley	Pinot Noir	Aubichon Cellars
+82801	Italy	La Fornace	90	65.00	Tuscany	Toscana		Cabernet Sauvignon	Carpineto
+133448	Italy		85	17.00	Veneto	Veneto		Pinot Grigio	Aldegheri
+95895	US		90	20.00	Washington	Yakima Valley	Columbia Valley	Chardonnay	Airfield Estates
+70734	France	Château la Tempérance	90	20.00	Bordeaux	Médoc		Bordeaux-style Red Blend	Bernard Magrez
+4497	US	OFS	93	40.00	California	Russian River Valley	Sonoma	Pinot Noir	De Loach
+74262	US	The Climber	86	14.00	California	California	California Other	Sauvignon Blanc	Clif Family
+96637	Argentina	Ique	84	11.00	Mendoza Province	Mendoza		Malbec	Enrique Foster
+131628	US		87	19.00	California	Paso Robles	Central Coast	Viognier	Robert Hall
+52242	Australia		85	16.00	South Australia	Coonawarra		Cabernet Sauvignon	Nick Faldo
+91291	Austria	Hohenberg	89	23.00	Wagram-Donauland			Grüner Veltliner	Josef Ehmoser
+104796	Italy	Coste di Rose	94	85.00	Piedmont	Barolo		Nebbiolo	Marchesi di Barolo
+25723	Italy		86	17.00	Sicily & Sardinia	Sicilia		Grillo	Feudo Maccari
+53693	Spain	Crianza	84	15.00	Northern Spain	Rioja		Tempranillo Blend	CVNE
+96538	Italy	Ugolino	90	60.00	Central Italy	Sagrantino di Montefalco		Sagrantino	Terre de Trinci
+1362	US		91	50.00	California	Sonoma Coast	Sonoma	Pinot Noir	Flowers
+37832	US	25th Anniversary J Cuvée	91	24.00	California	Russian River Valley	Sonoma	Sparkling Blend	J Vineyards & Winery
+106765	Italy	Amor Costante	92	65.00	Tuscany	Toscana		Merlot	Gianni Brunelli
+123458	US		85	26.00	California	Santa Barbara County	Central Coast	Grenache	Comartin
+41882	Spain		87	12.00	Northern Spain	Rioja		Tempranillo	Sierra Cantabria
+40538	US	Les Pierres	84	36.00	California	Sonoma Coast	Sonoma	Chardonnay	Sonoma-Cutrer
+13738	South Africa		89	35.00	Stellenbosch			Cabernet Sauvignon	Hartenberg
+107006	US		82	21.00	California	Paso Robles	Central Coast	Merlot	Cinnabar
+67254	Italy	Riserva	87	10.00	Tuscany	Chianti		Sangiovese	Renzo Masi
+94691	US	Bien Nacido Vineyard Elder Series	93	39.00	California	Santa Maria Valley	Central Coast	Chardonnay	Testarossa
+143557	Spain	Gran Coronas Reserva	88	20.00	Catalonia	Penedès		Cabernet Sauvignon	Torres
+73108	US	Rancho Ontiveros	90	48.00	California	Santa Maria Valley	Central Coast	Pinot Noir	Hug
+79334	New Zealand	Cellar Selection	87	15.00	Marlborough			Sauvignon Blanc	Sileni
+137620	Italy		92	60.00	Veneto	Amarone della Valpolicella Classico		Corvina, Rondinella, Molinara	Tommasi
+37851	Italy	Arcidiavolo	91	75.00	Tuscany	Toscana		Red Blend	Teruzzi & Puthod
+9454	Argentina	Reserva Etiqueta Blanca	84	13.00	Mendoza Province	Mendoza		Cabernet Sauvignon	Santa Julia
+135008	Australia		92	25.00	South Australia	Adelaide Hills		Sauvignon Blanc	Shaw and Smith
+27970	US	Overlook	90	25.00	California	San Luis Obispo-Sonoma-Monterey	California Other	Pinot Noir	Landmark
+131321	US	Pepper Bridge Vineyard	88	40.00	Washington	Walla Walla Valley (WA)	Columbia Valley	Syrah	Waters
+103658	Australia		83	13.00	Australia Other	South Eastern Australia		Riesling	Kono Barú
+88537	Austria	Gedersdorfer Moosburgerin	88	15.00	Kremstal			Grüner Veltliner	Felsner
+66897	Portugal	Quinta do Valdoeiro	87	17.00	Bairrada			Syrah	Messias
+10923	US	Year of the Horse Ten Oaks Single Vineyard	90	72.00	California	Russian River Valley	Sonoma	Pinot Noir	Donum
+46565	Italy	Selezione	89	17.00	Piedmont	Barbera d'Asti		Barbera	Cantina Vignasone
+7206	US	Doyle Family Vineyards Reserve	90	25.00	New York	Finger Lakes	Finger Lakes	Blaufränkisch	Timothy Moore
+66246	US	Elerding Vineyard Double Barrel	88	35.00	Washington	Columbia Valley (WA)	Columbia Valley	Cabernet Sauvignon	Barrage Cellars
+44189	France		90	33.00	Bordeaux	Saint-Émilion		Bordeaux-style Red Blend	Château Roylland
+134507	US	Vintage Brut	84	32.00	California	Russian River Valley	Sonoma	Sparkling Blend	J Vineyards & Winery
+143716	US	Clifton Hill Vineyard	91	30.00	Washington	Columbia Valley (WA)	Columbia Valley	Syrah	Chatter Creek
+11426	Chile	Reserve Viognier-Sauvignon Blanc	87	11.00	Curicó Valley			White Blend	Junta
+19051	France	Grande Tradition	84	17.00	Languedoc-Roussillon	Minervois		Rhône-style Red Blend	Chateau du Donjon
+104375	New Zealand		85	19.00	Central Otago			Pinot Noir	Thatched Hut
+25418	Italy	Ginolfo	87	23.00	Sicily & Sardinia	Sicilia		Viognier	Baglio di Pianetto
+96285	South Africa		86	10.00	Western Cape			Chenin Blanc	Indaba
+10413	Argentina		88	32.00	Mendoza Province	Uco Valley		Malbec	Mas
+76770	US	Big Papa	93	49.00	Washington	Columbia Valley (WA)	Columbia Valley	Cabernet Sauvignon	Efeste
+142246	Germany	Kabinett	88	17.00	Nahe			Riesling	Schloss Wallhausen
+91676	Australia	Rosé	84	17.00	Victoria	Victoria		Pinot Noir	Green Point
+15887	Austria	1 Lage	89	21.00	Niederösterreich			Grüner Veltliner	Setzer
+95874	Spain	Reserva	83	19.00	Northern Spain	Rioja		Tempranillo	Diez-Caballero
+96719	France	Saint-August	87	20.00	Provence	Vin de Pays Var		Red Blend	Triennes
+34565	France		86	50.00	Rhône Valley	Châteauneuf-du-Pape		Rhône-style Red Blend	Domaine la Mereuille
+28493	France		86	17.00	Bordeaux	Bordeaux Supérieur		Merlot	Château Larteau
+98917	US	Huber Vineyard	89	32.00	California	Sta. Rita Hills	Central Coast	Pinot Noir	Seagrape
+68146	Austria	Ried Sandgrube	87	10.00	Niederösterreich			Grüner Veltliner	Winzer Krems
+50630	Australia		87	20.00	South Australia	Barossa		Cabernet Sauvignon	Schild Estate
+113309	France	Fleur du Crussol	93	52.00	Rhône Valley	Saint-Péray		Marsanne	Alain Voge
+89890	Italy	Tre Stelle	88	68.00	Piedmont	Barbaresco		Nebbiolo	Cascina delle Rose
+73260	US		85	11.00	California	North Coast	North Coast	Cabernet Sauvignon	Monogamy
+75842	Italy	Antichello	89	26.00	Veneto	Valpolicella Superiore Ripasso		Red Blend	Santa Sofia
+54066	Chile	Catalina	91	37.00	Cachapoal Valley			Cabernet Blend	Santa Ema
+62299	Australia		87	10.00	South Australia	Barossa		Shiraz	Wagtail
+122325	Portugal	Serrado Colheita	90	7.00	Dão			Portuguese Red	Quinta do Serrado
+133633	Argentina	Altosur	85	11.00	Mendoza Province	Tupungato		Merlot	Finca Sophenia
+144173	US	Reserve	86	22.00	Washington	Columbia Valley (WA)	Columbia Valley	Chardonnay	Hogue
+27340	France	Vin Rare	89	41.00	Rhône Valley	Gigondas		Rhône-style Red Blend	Dauvergne & Ranvier
+135119	US	Estate	82	28.00	California	Paso Robles	Central Coast	Zinfandel	Midnight
+41009	New Zealand	Pathway Single Estate	85	15.00	Marlborough			Pinot Noir	Ara
+30258	Chile	Reserva	85	12.00	Maule Valley			Merlot	Chilcas
+144633	South Africa	Cape Soleil	82	12.00	Coastal Region			Shiraz	Natural State
+138887	South Africa		88	16.00	Stellenbosch			Merlot	Beau Joubert
+94874	US	Vintage	86	50.00	Missouri	Augusta		Port	Mount Pleasant Winery
+64900	US	Ursa	90	39.00	Washington	Columbia Valley (WA)	Columbia Valley	Red Blend	Baer
+72791	Italy	Pora Riserva	90	67.00	Piedmont	Barbaresco		Nebbiolo	Produttori del Barbaresco
+80385	France	Clos de Godeaux Premier Cru	90	35.00	Burgundy	Savigny-lès-Beaune		Pinot Noir	Joseph Drouhin
+37833	Portugal		91	10.00	Moscatel de Setúbal			Moscatel	José Maria da Fonseca
+33423	US	Larner Vineyard Estrella Clone Reserve	90	39.00	California	Santa Barbara County	Central Coast	Syrah	db Winery
+131787	Germany	Zeltinger Sonnenuhr Spätlese	92	30.00	Mosel			Riesling	Markus Molitor
+73438	Italy	Alba in Vigna	85	18.00	Central Italy	Colli Bolognesi		Pignoletto	Bonfiglio
+57138	US	Taylor Lane Vineyard	94	50.00	California	Sonoma Coast	Sonoma	Pinot Noir	Belle Glos
+85725	US	Quail Run	87	22.00	Oregon	Southern Oregon	Southern Oregon	Pinot Blanc	Erath
+117856	US	Olive Hill	93	50.00	California	Sonoma Valley	Sonoma	Cabernet Sauvignon	B.R. Cohn
+143083	US		86	13.00	Washington	Yakima Valley	Columbia Valley	Roussanne	Bridgman
+35436	Australia		87	20.00	South Australia	Adelaide Hills		Pinot Noir	Sidewood
+97860	US		87	75.00	California	Oakville	Napa	Cabernet Sauvignon	Pine Ridge
+74689	US	Ritchie Vineyard	93	44.00	California	Russian River Valley	Sonoma	Chardonnay	De Loach
+15934	US	Riverview Vineyard	86	14.00	California	Monterey	Central Coast	White Riesling	Storrs
+148566	US	Dry	90	16.00	New York	Finger Lakes	Finger Lakes	Riesling	Ravines
+52620	US	The Offering	91	25.00	California	Santa Barbara County	Central Coast	Rhône-style Red Blend	Sans Liege
+31944	US	Wildcreek Canyon	83	7.00	California	California	California Other	Merlot	CK Mondavi
+142505	Australia		88	16.00	South Australia	Limestone Coast		Shiraz-Cabernet Sauvignon	Greg Norman Estates
+33625	US		88	30.00	California	Santa Barbara County	Central Coast	Pinot Noir	Rusack
+124651	US	Monte Lago Vineyards	83	20.00	California	Clear Lake	Mendocino/Lake Counties	Sauvignon Blanc	Croze
+112698	US	Valley View Vineyard	82	18.00	California	Santa Barbara County	Central Coast	Sauvignon Blanc	Lucas & Lewellen
+53748	US	Sonoma Heritage Vines	83	18.00	California	Sonoma County	Sonoma	Zinfandel	Rancho Zabaco
+19783	Italy	Hedòs	87	19.00	Central Italy	Montepulciano d'Abruzzo Cerasuolo		Rosé	Cantina Tollo
+17940	Italy		86	15.00	Northeastern Italy	Venezia Giulia		Pinot Grigio	Marco Cecchini
+4664	US		88	60.00	California	Russian River Valley	Sonoma	Pinot Noir	Della
+12051	Chile	Selección del Directorio Gran Reserva	87	10.00	Colchagua Valley			Carmenère	Santa Helena
+35981	New Zealand		88	15.00	Marlborough			Pinot Noir	Clifford Bay Estate
+118588	Lebanon	Grand Vin Bourgeois	83	25.00	Bekaa Valley			Red Blend	Heritage
+36682	Italy	Cum Laude	92	38.00	Tuscany	Toscana		Red Blend	Castello Banfi
+80182	Italy	Trappoline	86	15.00	Tuscany	Toscana		White Blend	Badia a Coltibuono
+133526	Italy	Dogajolo	87	12.00	Tuscany	Toscana		White Blend	Carpineto
+57541	US	Estate Midnight Red Wine	90	30.00	Washington	Walla Walla Valley (WA)	Columbia Valley	Red Blend	Watermill
+15363	US		87	29.00	California	Sonoma Coast	Sonoma	Pinot Noir	Merry Edwards
+123865	Chile	T.H.	89	17.00	Leyda Valley			Sauvignon Blanc	Undurraga
+38141	Spain	Coraje	90	44.00	Catalonia	Priorat		Red Blend	Fuentes
+20939	Portugal	Esporão Reserva	87	25.00	Alentejo			Portuguese Red	Herdade do Esporão
+138849	US	Serenade in Blanc	82	12.00	California	California	California Other	Sauvignon Blanc	R & B Cellars
+127809	Portugal	Samora Branco	86	11.00	Tejo			Portuguese White	Wines & Winemakers
+66310	US		92	25.00	California	Sonoma Coast	Sonoma	Chardonnay	Hartford
+83065	US	Estate	88	18.00	New York	Finger Lakes	Finger Lakes	Gewürztraminer	Rooster Hill
+115057	Spain	Finca Resalso	87	15.00	Northern Spain	Ribera del Duero		Tinto Fino	Emilio Moro
+111881	New Zealand	Winemakers Signature	87	13.00	Hawke's Bay			Chardonnay	Kemblefield
+99645	US		86	25.00	California	Napa Valley	Napa	Chardonnay	William Hill Estate
+33608	Germany	Spätlese	88	13.00	Mosel			Riesling	Heinz Eifel
+103269	Argentina		83	13.00	Mendoza Province	Mendoza		Bonarda	Argento
+50662	France	Domaine le Petit Bon Dieu Réserve	88	10.00	Loire Valley	Bourgueil		Cabernet Franc	Paul Buisse
+148556	France	Saint-Meyland Brut	85	14.00	France Other	Vin Mousseux		Champagne Blend	Les Caves de Bailly
+135839	New Zealand		84	42.00	Marlborough			Pinot Noir	Foxes Island
+93177	Chile	Reserva	84	15.00	Maule Valley			Merlot	Portal Del Alto
+127166	US	Ellie's Vineyard	84	35.00	California	Dry Creek Valley	Sonoma	Petite Sirah	Wilson
+103624	US		87	9.00	California	California	California Other	White Blend	Kenwood
+11508	Germany	Graach Josephshöfer GG Trocken	94	52.00	Mosel			Riesling	Reichsgraf von Kesselstatt
+27152	US	Estate Grown	88	36.00	California	Alexander Valley	Sonoma	Syrah	Reynoso
+10196	Italy	Mastronicola Nocera	87	34.00	Sicily & Sardinia	Sicilia		Red Blend	Cambria
+30116	Spain	Mas de Can Blau	92	45.00	Catalonia	Montsant		Red Blend	Can Blau
+41623	Uruguay	Amat	87	30.00	Uruguay			Tannat	Bodegas Carrau
+49005	Italy	Monrosso	87	13.00	Tuscany	Chianti		Sangiovese	Castello di Monsanto
+61832	Spain	Old Vines Reserva	88	17.00	Central Spain	Valdepeñas		Tempranillo	Bodegas Navarro López
+62833	Argentina		81	9.00	Mendoza Province	Mendoza		Malbec	Coiron
+102798	US		84	11.00	California	California	California Other	Red Blend	The Big Red Monster
+31910	US	Elderding Six Prong Vineyard	87	29.00	Washington	Horse Heaven Hills	Columbia Valley	Sangiovese	Stottle
+90326	Italy		87	30.00	Tuscany	Rosso di Montalcino		Sangiovese Grosso	La Togata
+144285	Italy	Crede	90	18.00	Veneto	Prosecco di Valdobbiadene		Prosecco	Bisol
+129792	Argentina	Reserva	91	18.00	Mendoza Province	Luján de Cuyo		Malbec	Luigi Bosca
+26473	US	Isosceles Reserve	94	95.00	California	Paso Robles	Central Coast	Bordeaux-style Red Blend	Justin
+25585	Portugal	Lot 1 Auction Reserve	87	27.00	Port			Port	Broadbent
+82750	US		87	27.00	California	Paso Robles	Central Coast	Rosé	Tablas Creek
+148993	Italy		83	20.00	Northeastern Italy	Collio		Pinot Grigio	Isidoro Polencic
+46445	US	Dominio del Falcon	91	75.00	California	Sta. Rita Hills	Central Coast	Pinot Noir	Sanford
+68011	Germany	Impulse (Gold) QbA	86	14.00	Mosel-Saar-Ruwer			Riesling	C.H. Berres
+114797	US	Kick Ranch	87	25.00	California	Sonoma County	Sonoma	Sauvignon Blanc	Enkidu
+17403	US	Dry	88	12.00	Oregon	Willamette Valley	Willamette Valley	Gewürztraminer	Airlie
+71550	Australia	Barossa Wines Unoaked	87	14.00	South Australia	Barossa		Chardonnay	Grant Burge
+128040	US	Big House Red	85	10.00	California	California	California Other	Red Blend	Big House
+21413	Portugal	Cape Roca Fish	86	16.00	Vinho Verde			Portuguese White	Casca Wines
+101657	US		83	41.00	California	Napa Valley	Napa	Cabernet Sauvignon	Titus
+39833	Italy		90	23.00	Northeastern Italy	Alto Adige		Sauvignon	Weingut Niklas
+4756	France	Pavillon Blanc du Château Margaux	93	150.00	Bordeaux	Bordeaux Blanc		Bordeaux-style White Blend	Château Margaux
+148892	Italy		84	15.00	Northeastern Italy	Alto Adige		Pinot Grigio	Girlan
+108468	Italy	Vigneto Dirupo Extra Dry	87	16.00	Veneto	Prosecco di Valdobbiadene		Prosecco	Andreola Orsola
+148004	Argentina		87	9.00	Mendoza Province	Mendoza		Merlot	Tango Sur
+51174	US	The Heritage Collection	80	12.00	California	Lodi	Central Valley	Petite Sirah	Peirano
+116953	Australia	Dead Ringer	90	60.00	South Australia	McLaren Vale		Cabernet Sauvignon	Wirra Wirra
+125821	US	Rosella's Vineyard	85	48.00	California	Santa Lucia Highlands	Central Coast	Pinot Noir	A.P. Vin
+75156	France	Les Jardins	86	14.00	Languedoc-Roussillon	Faugères		Rhône-style Red Blend	Domaine Saint Antonin
+64645	US	Dobles Lías Don Miguel Vineyard	94	40.00	California	Russian River Valley	Sonoma	Chardonnay	Marimar Estate
+84655	US	The Glenrose Vineyard Reserve	93	55.00	California	Paso Robles	Central Coast	Syrah	Adelaida
+84349	Italy	Pergole Vece	94	118.00	Veneto	Amarone della Valpolicella Classico		Corvina, Rondinella, Molinara	Le Salette
+108365	US		82	50.00	California	Napa Valley	Napa	White Blend	Black Bart's Bride
+6123	France	L de Laffitte Laujac	85	18.00	Bordeaux	Médoc		Bordeaux-style Red Blend	Château Laffitte Laujac
+119240	France	Cuvée Signature	85	57.00	Burgundy	Meursault		Chardonnay	Bouchard Aîné & Fils
+123147	Italy	Zuc di Volpe	87	38.00	Northeastern Italy	Colli Orientali del Friuli		Friulano	Volpe Pasini
+37437	US		88	18.00	Washington	Washington	Washington Other	Riesling	Hedgeline
+20287	Italy		90	50.00	Veneto	Amarone della Valpolicella Valpantena		Corvina, Rondinella, Molinara	Tezza
+134025	Argentina	Catena Alta	89	57.00	Mendoza Province	Mendoza		Cabernet Sauvignon	Bodega Catena Zapata
+112844	Italy	Maschio dei Cavalieri	82	20.00	Veneto	Prosecco di Valdobbiadene		Prosecco	Maschio dei Cavalieri
+5695	Italy	Pietra Rossa	92	49.00	Tuscany	Vino Nobile di Montepulciano		Red Blend	Contucci
+38342	Portugal	Terra de Touros	83	8.00	Tejo			Arinto	Quinta do Casal Monteiro
+31886	Australia	Regional Vineyard Series	90	15.00	South Australia	Barossa Valley		Shiraz	Gotham
+129592	US		84	14.00	California	California	California Other	Red Blend	The Big Red Monster
+4801	Italy	Nova Domus Riserva	88	60.00	Northeastern Italy	Alto Adige		White Blend	Cantina Terlano
+116807	US		86	22.00	California	Napa Valley	Napa	Merlot	Sterling
+3623	Serbia	Zupska	87	22.00	Župa			Tamjanika	Budimir
+34158	Italy	Riserva 0,618	89	75.00	Southern Italy	Castel del Monte		Nero di Troia	Santa Lucia
+117657	France	Les Gravières Premier Cru	89	36.00	Burgundy	Santenay		Pinot Noir	Prosper Maufoux
+55342	US	Tazetta Vineyard	89	24.00	California	Livermore Valley	Central Coast	Syrah	Page Mill Winery
+9468	Argentina	Reserva	83	13.00	Mendoza Province	Mendoza		Cabernet Sauvignon	Tamarí
+45907	Italy	Vigna Tecc	89	29.00	Piedmont	Dolcetto di Dogliani		Dolcetto	Poderi Luigi Einaudi
+29652	Italy	Da Vinci	87	15.00	Tuscany	Chianti		Red Blend	Cantine Leonardo Da Vinci
+146326	Australia	Watervale	87	20.00	South Australia	South Australia		Riesling	3 Hills High
+81883	Italy	Montecorna	89	40.00	Veneto	Valpolicella Classico Superiore Ripasso		Corvina, Rondinella, Molinara	Remo Farina
+71360	Italy	Classico	89	33.00	Sicily & Sardinia	Sardinia		Vermentino	Capichera
+133041	US	Mitsuko's Vineyard	87	19.00	California	Carneros	Napa-Sonoma	Sauvignon Blanc	Clos Pegase
+52275	France		95	310.00	Burgundy	Bâtard-Montrachet		Chardonnay	Olivier Leflaive
+40679	Italy	Extra Dry	87	15.00	Veneto	Conegliano Valdobbiadene Prosecco Superiore		Glera	Bianca Vigna
+11732	US	Toboni Vineyard	92	55.00	California	Russian River Valley	Sonoma	Pinot Noir	Gary Farrell
+119520	Argentina	Serie Terra Spakling	80	14.00	Mendoza Province	Mendoza		Malbec	Viniterra
+102254	US		82	12.00	California	California	California Other	Chardonnay	Chumeia
+107883	US	Quarry Butte Red Table Wine	88	20.00	Washington	Horse Heaven Hills	Columbia Valley	Red Blend	Alexandria Nicole
+87310	New Zealand		90	39.00	Waipara Valley			Chardonnay	Pegasus Bay
+88208	Australia	Reserve Release	89	45.00	Victoria	Yarra Valley		Chardonnay	De Bortoli
+76966	Argentina	Lunta	91	20.00	Mendoza Province	Mendoza		Malbec	Mendel
+17329	Italy		91	32.00	Tuscany	Chianti Classico		Sangiovese	Brancaia
+81726	France	Réserve de la Famille	85	15.00	Bordeaux	Bordeaux		Bordeaux-style Red Blend	Bernard Magrez
+35822	US	Presqu'ile Vineyard	92	35.00	California	Santa Maria Valley	Central Coast	Sauvignon Blanc	Storm
+148884	US		88	10.00	Washington	Columbia Valley (WA)	Columbia Valley	Chardonnay	Arbor Crest
+149606	US		88	12.00	Texas	Texas		Chardonnay	Llano Estacado
+68969	US	Sultry Red	84	13.00	California	California	California Other	Red Blend	Hey Mambo
+114601	US	Ciel du Cheval Vineyard Roussanne	88	25.00	Washington	Red Mountain	Columbia Valley	Roussanne	McCrea
+1273	US	Sullivan Reserve	85	52.00	California	Dry Creek Valley	Sonoma	Zinfandel	Mazzocco
+79075	US	Hattrup Farms Marvell	87	32.00	Washington	Rattlesnake Hills	Columbia Valley	Rhône-style Red Blend	Maryhill
+109879	Portugal	Varanda do Conde	90	12.00	Vinho Verde			Portuguese White	Provam
+126363	Italy		88	44.00	Piedmont	Barbaresco		Nebbiolo	Beni di Batasiolo
+61046	Italy	Bùcaro	87	10.00	Central Italy	Montepulciano d'Abruzzo		Montepulciano	Cantine Aurora
+4	France	La Brûlade	95	66.00	Provence	Bandol		Provence red blend	Domaine de la Bégude
+25345	US	Shameless Hussy	87	18.00	Washington	Columbia Valley (WA)	Columbia Valley	Viognier	Hard Row To Hoe
+101518	US		89	28.00	Washington	Snipes Mountain	Columbia Valley	Malbec	Nefarious Cellars
+132783	South Africa	Bonne Nouvelle	89	40.00	Stellenbosch			Cabernet Blend	Remhoogte
+110256	Italy	Gorio Extra Dry	86	18.00	Veneto	Prosecco di Valdobbiadene		Prosecco	Malibràn
+100519	Italy	Quass	88	28.00	Piedmont	Barbera d'Alba		Barbera	Pecchenino
+56139	US	Old Vines	89	20.00	California	Sonoma County	Sonoma	Zinfandel	St. Francis
+122674	Italy	I Filari	90	38.00	Piedmont	Dolcetto di Dogliani		Dolcetto	Poderi Luigi Einaudi
+33699	Argentina	Unoaked	84	11.00	Mendoza Province	Mendoza		Chardonnay	Zolo
+135625	Moldova	Select	83	13.00	Cahul			Chardonnay	Graystone
+137617	Austria	Loibenberg Grüner Veltliner Smaragd	92	55.00	Wachau			Grüner Veltliner	Alzinger
+51637	US		83	30.00	California	Napa County	Napa	Pinot Noir	Ca' Momi
+35678	France	Cuvée S	89	30.00	Burgundy	Santenay		Pinot Noir	David Moreau
+104719	US	Estate Bottled	85	19.00	California	Paso Robles	Central Coast	Chardonnay	Eberle
+16700	Italy	Cacc'e Mmitte di Lucera	87	22.00	Southern Italy	Puglia		Red Blend	Alberto Longo
+42680	US	Esoterica Chavez-Leeds Vineyard	94	40.00	California	Rutherford	Napa	Petite Sirah	Kent Rasmussen
+47906	US		82	14.00	California	North Coast	North Coast	Pinot Noir	Chime
+105161	Italy	Modus	90	25.00	Tuscany	Toscana		Red Blend	Ruffino
+138872	Chile	Cariblanco	88	16.00	Casablanca Valley			Sauvignon Blanc	Kingston Family
+37830	Spain	Colección Vivanco 4 Varietales	91	82.00	Northern Spain	Rioja		Red Blend	Dinastía Vivanco
+16569	US	Wildflower Valdeguie	84	7.00	California	Monterey	Central Coast	Red Blend	J. Lohr
+41841	Italy	Pettirosso	84	22.00	Tuscany	Toscana		Sangiovese	Fonterenza
+49241	Chile		87	17.00	Casablanca Valley			Chardonnay	Arboleda
+91655	Spain	Old Vines Crianza	84	13.00	Central Spain	Valdepeñas		Tempranillo	Bodegas Navarro López
+123058	France	La Dame Rousse	90	24.00	Rhône Valley	Tavel		Rosé	Domaine de la Mordorée
+8214	US	Escolle Vineyard	91	46.00	California	Santa Lucia Highlands	Central Coast	Pinot Noir	Baker & Brain
+99480	Israel	Sha'al Single Vineyard Late Harvest Kosher - 375 ml	88	24.00	Galilee			Gewürztraminer	Carmel
+86593	South Africa	Solms Astor Cape Jazz Shiraz	86	20.00	Coastal Region			Sparkling Blend	Solms-Delta
+69002	US		82	80.00	California	Howell Mountain	Napa	Cabernet Sauvignon	Cornerstone
+67666	US	Juliana Vineyard	87	22.00	California	Napa Valley	Napa	Sauvignon Blanc	Merryvale
+58104	US		90	18.00	California	Mendocino-Amador	California Other	Zinfandel	Paul Dolan
+81111	US	Stone Vineyard	86	60.00	California	Alexander Valley	Sonoma	Cabernet Sauvignon	Hawkes
+54110	South Africa	Cyclus	90	35.00	Paarl			White Blend	Avondale
+127704	Italy	Altanuta	86	14.00	Veneto	Valdadige		Pinot Grigio	Josef Brigl
+117503	US		86	22.00	Oregon	Willamette Valley	Willamette Valley	Chardonnay	Left Coast Cellars
+139965	Argentina		85	14.00	Mendoza Province	Maipú		Merlot	Pascual Toso
+120225	US	Reserve West Dry Creek	81	50.00	California	Dry Creek Valley	Sonoma	Zinfandel	Mazzocco
+97897	Spain	Rojo Granrojo	83	9.00	Central Spain	Vino de la Tierra de Castilla		Garnacha	Bodegas Navarro López
+36647	US	Grand Estates	88	12.00	Washington	Columbia Valley (WA)	Columbia Valley	Merlot	Columbia Crest
+120208	Italy	Select Art	88	33.00	Northeastern Italy	Alto Adige		Chardonnay	Girlan
+24641	US	Split Rock Vineyard	91	55.00	California	Sonoma Coast	Sonoma	Pinot Noir	Petito
+24805	Spain	Reserva	89	20.00	Northern Spain	Rioja		Tempranillo Blend	Carlos Serres
+65286	New Zealand	Awatere Valley	89	19.00	Marlborough			Sauvignon Blanc	Vavasour
+80239	US	Old Vine Zinfandel	83	18.00	California	Lodi	Central Valley	Zinfandel	Klinker Brick
+122070	New Zealand	Pioneer Block 6 Oh! Block	90	24.00	Marlborough			Sauvignon Blanc	Saint Clair
+11739	Italy	Terra di Lamole	92	21.00	Tuscany	Chianti Classico		Red Blend	I Fabbri
+93573	Australia	Bakers Gully	89	50.00	South Australia	Clarendon		Syrah	Clarendon Hills
+128589	France	Bourgogne A. Rodet	85	18.00	Burgundy	Bourgogne		Pinot Noir	Antonin Rodet
+150601	US	Hendry Vineyard Reserve	90	30.00	California	Napa Valley	Napa	Zinfandel	Rosenblum
+57943	Italy	Riserva	92	70.00	Tuscany	Brunello di Montalcino		Sangiovese Grosso	Ferrero
+90316	France	Kaefferkopf Vielles Vignes Grand Cru	87	55.00	Alsace	Alsace		Gewürztraminer	Jean-Baptiste Adam
+114625	US		88	35.00	Washington	Columbia Valley (WA)	Columbia Valley	Chardonnay	Mark Ryan
+112607	Argentina	Reserva	83	14.00	Mendoza Province	Mendoza		Malbec	Finca Los Maza
+134475	Spain	Montsalvat	89	79.00	Catalonia	Priorat		Red Blend	Francesc Sanchez Bas
+68997	France	Château de Launay	90	27.00	Bordeaux	Bordeaux		Bordeaux-style Red Blend	Domaines Arnaud de Raignac
+104954	US	Blocks 7 & 22	88	35.00	California	Napa Valley	Napa	Zinfandel	Hendry
+67654	US		87	26.00	California	Napa Valley	Napa	Zinfandel	Calistoga Cellars
+101268	Italy	Poggiarelli	86	19.00	Tuscany	Vernaccia di San Gimignano		Vernaccia	Signano
+111236	New Zealand		86	25.00	Canterbury			Pinot Noir	Main Divide
+61498	Spain	Crianza	86	19.00	Northern Spain	Ribera del Duero		Tempranillo	Prado Rey
+119041	Argentina	Vika Oak	83	12.00	Other	San Juan		Malbec	Bodegas La Guarda
+147379	US	Deaver Vineyard Old Vine	86	22.00	California	Amador County	Sierra Foothills	Zinfandel	Terra d'Oro
+27267	Germany	Mineral Dry	89	20.00	Mosel			Riesling	Dr. Heidemanns-Bergweiler
+147894	US	Damaris Reserve	86	32.00	California	Sonoma County	Sonoma	Chardonnay	Landmark
+111581	US		84	12.00	California	California	California Other	Syrah	Heron
+28554	France	Le Clos	90	30.00	Loire Valley	Bourgueil		Cabernet Franc	Domaine les Pins
+85665	France	Fonteny Premier Cru	90	140.00	Burgundy	Gevrey-Chambertin		Pinot Noir	Domaine Henri Rebourseau
+38094	US		89	32.00	California	Paso Robles	Central Coast	Petite Sirah	Proulx
+773	US	Faith	89	39.00	California	California	California Other	Red Blend	Aver Family Vineyards
+98009	US		89	100.00	California	Napa Valley	Napa	Cabernet Sauvignon	Palmaz
+30757	Italy	Levia Gravia	92	56.00	Tuscany	Bolgheri Superiore		Red Blend	Caccia al Piano 1868
+52318	US	Momentum Red Wine	88	18.00	Washington	Horse Heaven Hills	Columbia Valley	Bordeaux-style Red Blend	Cor Cellars
+17422	Argentina	Reserve	88	19.00	Mendoza Province	Uco Valley		Malbec	Salentein
+40420	US	Sassolini	86	14.00	California	Lake County	Mendocino/Lake Counties	Pinot Grigio	Ramspeck
+18255	US	Especiale	87	40.00	California	Paso Robles	Central Coast	Zinfandel	Peachy Canyon
+65627	France	Vaudésir Grand Cru	93	81.00	Burgundy	Chablis		Chardonnay	Domaine Christian Moreau Père et Fils
+59614	US		87	15.00	California	California	California Other	Sauvignon Blanc	Stevenot
+139200	Italy	Riserva	94	129.00	Tuscany	Brunello di Montalcino		Sangiovese	Poggio Antico
+98529	US	Provocateur	89	24.00	Oregon	Willamette Valley	Willamette Valley	Pinot Noir	J.K. Carrière
+102951	US	Bronze Label	89	42.00	California	Howell Mountain	Napa	Cabernet Sauvignon	W.H. Smith
+112802	Greece		85	25.00	Beotia			Syrah	Avantis
+76365	Argentina		88	11.00	Mendoza Province	Mendoza		Torrontés	Zolo
+114195	New Zealand	Waldron Vineyard	91	35.00	Marlborough			Riesling	Villa Maria
+96035	US	Kilravock	85	28.00	Virginia	Virginia		Bordeaux-style Red Blend	Rosemont
+57971	New Zealand		88	12.00	Marlborough			Sauvignon Blanc	Makara
+77301	US	Sorella	91	65.00	Washington	Horse Heaven Hills	Columbia Valley	Bordeaux-style Red Blend	Andrew Will
+12063	Argentina	Alto	92	90.00	Mendoza Province	Mendoza		Malbec-Cabernet Sauvignon	Alta Vista
+85399	Argentina		87	17.00	Other	Calchaquí Valley		Red Blend	Amalaya
+50274	US	Estate Bottled	84	24.00	California	Shenandoah Valley (CA)	Sierra Foothills	Aglianico	Amador Foothill Winery
+85966	New Zealand		90	20.00	Hawke's Bay			Chardonnay	Esk Valley
+77901	US	Alder Ridge Vineyard	90	40.00	Washington	Horse Heaven Hills	Columbia Valley	Cabernet Sauvignon	Apex at Alder Ridge
+102909	South Africa	Solms Astor Cape Jazz	86	20.00	Paarl			Shiraz	Solms-Delta
+37524	US	Rued Clone	92	48.00	California	Green Valley	Sonoma	Chardonnay	Iron Horse
+65884	US		86	16.00	California	Santa Barbara County	Central Coast	Sauvignon Blanc	Royal Oaks
+135564	Spain	Aquis Celenis Cepas Vellas	87	18.00	Galicia	Rías Baixas		Albariño	Fernando Diéguez Otero
+117760	US		82	13.00	California	California	California Other	Chardonnay	Congress Springs
+115203	France	Reynard	90	96.00	Rhône Valley	Cornas		Syrah	Thierry Allemand
+138476	Spain		86	10.00	Galicia	Rías Baixas		Albariño	Pazo Serantellos
+23639	South Africa	Donatus White	86	25.00	Stellenbosch			White Blend	Dornier
+98216	US		80	20.00	California	Mokelumne River	Central Valley	Zinfandel	Gatos Locos
+62378	France	Cuvée Flamme Brut	89	27.00	Loire Valley	Saumur		White Blend	Gratien et Meyer
+1994	US	La Colina Vineyard	88	60.00	Oregon	Dundee Hills	Willamette Valley	Pinot Noir	Torii Mor
+102416	US	Rutherford Crossroad	86	25.00	California	Rutherford	Napa	Sauvignon Blanc	Lieff
+76708	US	Heart of the Hill Vineyard	88	45.00	Washington	Red Mountain	Columbia Valley	Mourvèdre	Dowsett Family
+150709	US	Cervina	85	22.00	California	Sonoma County	Sonoma	Zinfandel	Venus
+92505	US	Home Ranch	88	25.00	California	Dry Creek Valley	Sonoma	Merlot	Sbragia
+11466	US	Doyle Family Vineyards Reserve	88	35.00	New York	Finger Lakes	Finger Lakes	Pinot Noir	Timothy Moore
+149547	Argentina	Ciclos	85	25.00	Other	Cafayate		Sauvignon Blanc	Michel Torino
+69536	US	Coastal	86	10.00	California	California	California Other	Chardonnay	Callaway
+77612	US	Marjorie Vineyard	90	50.00	Oregon	Eola-Amity Hills	Willamette Valley	Pinot Noir	Cristom
+12892	France	Domaine d'Astros Cuvée Prestige	87	15.00	Provence			Rosé	Château d'Astros
+145784	South Africa	Cathedral Cellar	86	15.00	Coastal Region			Merlot	KWV
+105311	Italy		83	19.00	Tuscany	Chianti Classico		Sangiovese	La Castellina
+62973	US	Don Miguel Vineyard Dobles Lías	90	45.00	California	Russian River Valley	Sonoma	Chardonnay	Marimar Torres
+113216	US	Rock-R	90	40.00	California	North Coast	North Coast	Red Blend	Roshambo
+103157	US		89	69.00	California	Diamond Mountain District	Napa	Cabernet Sauvignon	Mueller Family Vineyards
+72342	US	Evenstad Reserve	92	65.00	Oregon	Willamette Valley	Willamette Valley	Pinot Noir	Domaine Serene
+84391	US	Estate	88	25.00	California	Shenandoah Valley (CA)	Sierra Foothills	Syrah	Renwood
+88356	Portugal	Tons de Duorum Branco	88	10.00	Douro			Portuguese White	Duorum
+91811	US	Bianco di Napa	85	10.00	California	Napa Valley	Napa	White Blend	Ca' Momi
+53845	Italy	Casal di Serra Vecchie Vigne	90	28.00	Central Italy	Verdicchio dei Castelli di Jesi Classico Superiore		Verdicchio	Umani Ronchi
+128795	US	Oak Free	86	12.00	California	California	California Other	Chardonnay	Round Hill
+70542	New Zealand	Pioneer Block 4 Sawcut	91	27.00	Marlborough			Pinot Noir	Saint Clair
+99185	Hungary	Solus	87	77.00	Villány			Merlot	Gere Attila
+76602	US	Rattlesnake Rock Vineyard	88	54.00	California	Santa Cruz Mountains	Central Coast	Syrah	Big Basin
+63847	Australia		91	15.00	South Australia	Barossa Valley		Chardonnay	Simon Hackett
+66562	US		87	15.00	California	Lodi	Central Valley	Malbec	Christine Andrew
+36654	US	La Estancia Vineyard	88	16.00	California	Santa Lucia Highlands	Central Coast	Riesling	Pessagno
+141228	Chile	Vineyard Selection	86	9.00	Casablanca Valley			Chardonnay	TerraNoble
+116806	US		86	24.00	New York	North Fork of Long Island	Long Island	Merlot	Sherwood House Vineyards
+62902	US		84	22.00	California	Paso Robles	Central Coast	Cabernet Sauvignon	San Simeon
+8089	US	The Wanted	94	37.00	Washington	Columbia Valley (WA)	Columbia Valley	Bordeaux-style Red Blend	Guardian
+116526	US	Northern Reach	87	27.00	Oregon	Umpqua Valley	Southern Oregon	Pinot Noir	Brandborg
+68279	South Africa		90	15.00	Stellenbosch			Chardonnay	Waterford
+103726	Italy	Rapace	92	40.00	Tuscany	Toscana		Red Blend	Uccelliera
+5808	Spain		85	11.00	Northern Spain	Toro		Tinta de Toro	Tierras Guindas
+111830	France	Cuvée Spéciale Brut	86	32.00	Champagne	Champagne		Champagne Blend	Charles Lafitte
+73354	US	Josie's Knoll	87	21.00	Virginia	Monticello		Cabernet Franc	Lovingston
+127236	US	Estate Reserve	82	40.00	New York	North Fork of Long Island	Long Island	Chardonnay	One Woman
+96099	Spain	Art	88	55.00	Northern Spain	Bierzo		Mencía	Luna Beberide
+91892	US	the reverend	88	25.00	California	Dry Creek Valley	Sonoma	Zinfandel	Roshambo
+124145	France	Le Clé Saint-Pierre Oak Aged	86	14.00	Burgundy	Bourgogne		Gamay	Mommessin
+20550	Portugal	Cape Roca Fisherman	85	11.00	Vinho Verde			Portuguese White	Casca Wines
+77897	US		90	42.00	Washington	Columbia Valley (WA)	Columbia Valley	Cabernet Franc	Dusted Valley
+99058	Argentina	Reserve	86	12.00	Mendoza Province	Uco Valley		Cabernet Sauvignon	Menduco
+100170	US	Russian Cuvée	92	38.00	California	Green Valley	Sonoma	Sparkling Blend	Iron Horse
+134482	France	Château d'Arche	89	25.00	Bordeaux	Haut-Médoc		Bordeaux-style Red Blend	Mähler-Besse
+48964	Italy	813	85	15.00	Tuscany	Chianti Rufina		Sangiovese	Scopetani
+96369	Italy		85	15.00	Veneto	Valpolicella Classico		Red Blend	Monte del Frá
