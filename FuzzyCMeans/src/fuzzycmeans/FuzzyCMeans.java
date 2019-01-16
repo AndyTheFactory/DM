@@ -28,9 +28,9 @@ public class FuzzyCMeans {
     static FuzzyCMeansClusterer getClusterer(TupleList tuples){
         FuzzyCMeansParams params;
         FuzzyCMeansParams.Builder builder = new FuzzyCMeansParams.Builder()
-    			.clusterCount(10)
+    			.clusterCount(5)
     			.maxIterations(100)
-    			.fuzziness(2)
+    			.fuzziness(3)
     			.epsilon(0.0001)
     			.workerThreadCount(1)
     			.clusterSeeder(new RandomSeeder(System.currentTimeMillis(), new Random()))
@@ -43,7 +43,7 @@ public class FuzzyCMeans {
     public static void main(String[] args) throws IOException, InterruptedException, ExecutionException {
 
         System.out.print("Reading Weight Data...");
-        WeightData wd=new WeightData("d:\\Work\\Java\\DM\\data\\weightlifting_130k.txt");
+        WeightData wd=new WeightData("c:\\Projects\\DM\\data\\weightlifting_130k.txt");
         
         wd.ReadTupleList();
         
@@ -65,9 +65,9 @@ public class FuzzyCMeans {
           }else{
               System.err.println(fuzzyC.getErrorMessage());
           }
-        
+        /*
         System.out.print("Reading Road Accidents Data...");
-        RoadData road=new RoadData("d:\\Work\\Java\\DM\\data\\road_accidents_180k.txt");
+        RoadData road=new RoadData("c:\\Projects\\DM\\data\\road_accidents_180k.txt");
         
         road.ReadTupleList();
         
@@ -89,7 +89,7 @@ public class FuzzyCMeans {
           }else{
               System.err.println(fuzzyC.getErrorMessage());
           }
-          
+          */
     }
     private void test(){
                 // TODO code application logic here
