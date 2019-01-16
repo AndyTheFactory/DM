@@ -12,6 +12,7 @@ import java.util.Arrays;
 import java.util.HashMap;
 import java.util.List;
 import org.battelle.clodhopper.Cluster;
+import org.battelle.clodhopper.distance.EuclideanDistanceMetric;
 import org.battelle.clodhopper.tuple.ArrayTupleList;
 import org.battelle.clodhopper.tuple.TupleList;
 import org.battelle.clodhopper.util.IntIterator;
@@ -144,4 +145,20 @@ public abstract class Data {
      * @param filename
      */
     public abstract void writeGnuPlot(List<Cluster> clusters);
+    
+    public float getDivergence(List<Cluster> clusters)
+    {
+        float dist=0;
+        EuclideanDistanceMetric m=new EuclideanDistanceMetric();
+        for(Cluster c:clusters){
+            
+            IntIterator it=c.getMembers();
+            while (it.hasNext()){
+
+                dist+=m.distance(inputTuples.getTuple(it.getNext(),null), c.getCenter());
+            }
+                
+        }
+        return dist;
+    }
 }

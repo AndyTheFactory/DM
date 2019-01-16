@@ -40,8 +40,25 @@ public class FuzzyCMeans {
         return new FuzzyCMeansClusterer(tuples, params);          
         
     }
-    public static void main(String[] args) throws IOException, InterruptedException, ExecutionException {
+      static FuzzyCMeansClusterer getClusterer(TupleList tuples,int clusterCount){
+        FuzzyCMeansParams params;
+        FuzzyCMeansParams.Builder builder = new FuzzyCMeansParams.Builder()
+    			.clusterCount(clusterCount)
+    			.maxIterations(100)
+    			.fuzziness(3)
+    			.epsilon(0.0001)
+    			.workerThreadCount(1)
+    			.clusterSeeder(new RandomSeeder(System.currentTimeMillis(), new Random()))
+    			.distanceMetric(new EuclideanDistanceMetric());
 
+        params = builder.build();
+        return new FuzzyCMeansClusterer(tuples, params);          
+        
+    }  
+    public static void main(String[] args) throws IOException, InterruptedException, ExecutionException {
+        //nrcluster();
+        //System.exit(0);
+        
         System.out.print("Reading Weight Data...");
         WeightData wd=new WeightData("c:\\Projects\\DM\\data\\weightlifting_130k.txt");
         
@@ -67,12 +84,12 @@ public class FuzzyCMeans {
           }
         
         System.out.print("Reading Income Tax Data...");
-        IncomeData road=new IncomeData("c:\\Projects\\DM\\data\\income-tax-2.txt");
+        IncomeData income=new IncomeData("c:\\Projects\\DM\\data\\income-tax-2.txt");
         
-        road.ReadTupleList();
+        income.ReadTupleList();
         
         System.out.println("Clustering...");
-        fuzzyC = getClusterer(road.inputTuples);          
+        fuzzyC = getClusterer(income.inputTuples);          
 
         Thread worker2 = new Thread(fuzzyC);
         worker2.start();
@@ -82,13 +99,76 @@ public class FuzzyCMeans {
         System.out.println("Clustering done!");
         if (fuzzyC.getTaskOutcome() == TaskOutcome.SUCCESS) {
               System.out.println("Saving Cluster files");
-              road.WriteClusterInfo(clusters);
-              road.WriteClusteredData(clusters);
-              road.writeGnuPlot(clusters);
+              income.WriteClusterInfo(clusters);
+              income.WriteClusteredData(clusters);
+              income.writeGnuPlot(clusters);
               
           }else{
               System.err.println(fuzzyC.getErrorMessage());
           }
+          
+    }
+    
+    public static void nrcluster() throws IOException, InterruptedException, ExecutionException {
+
+        System.out.print("Reading Weight Data...");
+        WeightData wd=new WeightData("c:\\Projects\\DM\\data\\weightlifting_130k.txt");
+        
+        wd.ReadTupleList();
+        
+        System.out.println("Clustering...");
+        StringBuilder sb=new StringBuilder();
+        for(int k=1;k<10 && false;k++){
+            FuzzyCMeansClusterer fuzzyC = getClusterer(wd.inputTuples,k);          
+
+            Thread worker = new Thread(fuzzyC);
+            worker.start();
+
+            List<Cluster>  clusters = fuzzyC.get();
+
+            System.out.println("Clustering done!");
+            if (fuzzyC.getTaskOutcome() == TaskOutcome.SUCCESS) {
+                  System.out.println(k+" Clusters:");
+                  double div=wd.getDivergence(clusters);  
+                  sb.append(k+","+div+"\n");
+                  System.out.println("distortion "+div);
+              }else{
+                  System.err.println(fuzzyC.getErrorMessage());
+              }
+        }
+        System.out.println("Data for elbow:");
+        System.out.println(sb);
+        
+        System.out.print("Reading Income Tax Data...");
+        IncomeData income=new IncomeData("c:\\Projects\\DM\\data\\income-tax-2.txt");
+        
+        income.ReadTupleList();
+        
+        sb=new StringBuilder();
+        
+        System.out.println("Clustering...");
+        for(int k=1;k<10;k++){
+            FuzzyCMeansClusterer fuzzyC = getClusterer(income.inputTuples,k);          
+
+            Thread worker2 = new Thread(fuzzyC);
+            worker2.start();
+
+            List<Cluster> clusters = fuzzyC.get();
+
+            System.out.println("Clustering done!");
+            if (fuzzyC.getTaskOutcome() == TaskOutcome.SUCCESS) {
+                  System.out.println(k+" Clusters:");
+                  double div=wd.getDivergence(clusters);  
+                  sb.append(k+","+div+"\n");
+                  System.out.println("distortion "+div);
+
+              }else{
+                  System.err.println(fuzzyC.getErrorMessage());
+              }
+        }
+        System.out.println("Data for elbow:");
+        System.out.println(sb);
+        
           
     }
     private void test(){
