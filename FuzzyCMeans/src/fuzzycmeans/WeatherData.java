@@ -25,10 +25,10 @@ public class WeatherData extends Data{
         super(filename);
         cluster_fields.clear();
         cluster_fields.add("humidity");
-        cluster_fields.add("pressure");
+//        cluster_fields.add("pressure");
         cluster_fields.add("temperature");
         
-        normalization=new double[]{1,1,0.5};
+        normalization=new double[]{1,0.5};
 
     }
     @Override
@@ -47,13 +47,13 @@ public class WeatherData extends Data{
             outfile.write("set datafile separator tab\r\n");
             
             for(Cluster c:clusters)
-                outfile.write("set object circle at first "+c.getCenter()[0]*normalization[0]+","+c.getCenter()[1]*normalization[1]+","+c.getCenter()[2]*normalization[2]+" radius char 1  fillcolor rgb 'red' fillstyle solid  border lt 2 lw 2 front\r\n");
+                outfile.write("set object circle at first "+c.getCenter()[0]*normalization[0]+","+c.getCenter()[1]*normalization[1]+" radius char 1  fillcolor rgb 'red' fillstyle solid  border lt 2 lw 2 front\r\n");
             
-            outfile.write("splot \""+clusterFileName.replace("\\", "/")+"\" using 3:4:5 with points palette pt 3 title \"Weather Data\"");
+            outfile.write("plot \""+clusterFileName.replace("\\", "/")+"\" using 3:4:5 with points palette pt 3 title \"Weather Data\"");
             outfile.newLine();
             
-            for(Cluster c:clusters)
-                outfile.write("add point "+c.getCenter()[0]+","+c.getCenter()[1]+","+c.getCenter()[2]);
+          //  for(Cluster c:clusters)
+          //      outfile.write("add point "+c.getCenter()[0]+","+c.getCenter()[1]+","+c.getCenter()[2]);
             
             outfile.close();
         } catch (IOException ex) {

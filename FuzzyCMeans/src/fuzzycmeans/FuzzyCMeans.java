@@ -65,9 +65,9 @@ public class FuzzyCMeans {
           }else{
               System.err.println(fuzzyC.getErrorMessage());
           }
-        /*
-        System.out.print("Reading Road Accidents Data...");
-        RoadData road=new RoadData("c:\\Projects\\DM\\data\\road_accidents_180k.txt");
+        
+        System.out.print("Reading Income Tax Data...");
+        IncomeData road=new IncomeData("c:\\Projects\\DM\\data\\income-tax-2.txt");
         
         road.ReadTupleList();
         
@@ -89,7 +89,7 @@ public class FuzzyCMeans {
           }else{
               System.err.println(fuzzyC.getErrorMessage());
           }
-          */
+          
     }
     private void test(){
                 // TODO code application logic here
