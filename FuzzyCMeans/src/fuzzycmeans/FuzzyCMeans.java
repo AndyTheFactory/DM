@@ -28,9 +28,9 @@ public class FuzzyCMeans {
     static FuzzyCMeansClusterer getClusterer(TupleList tuples){
         FuzzyCMeansParams params;
         FuzzyCMeansParams.Builder builder = new FuzzyCMeansParams.Builder()
-    			.clusterCount(5)
+    			.clusterCount(10)
     			.maxIterations(100)
-    			.fuzziness(3)
+    			.fuzziness(2)
     			.epsilon(0.0001)
     			.workerThreadCount(1)
     			.clusterSeeder(new RandomSeeder(System.currentTimeMillis(), new Random()))

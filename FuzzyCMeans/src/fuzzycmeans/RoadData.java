@@ -23,10 +23,10 @@ public class RoadData extends Data{
     public RoadData(String filename) throws FileNotFoundException, IOException {
         super(filename);
         cluster_fields.clear();
-        cluster_fields.add("age_of_driver");
+        cluster_fields.add("age_of_driver");        
         cluster_fields.add("engine_capacity_(cc)");
         cluster_fields.add("age_of_vehicle");
-        normalization=new double[]{1,223,1};
+        normalization=new double[]{1.25,223,0.1};
     }
 
     @Override
